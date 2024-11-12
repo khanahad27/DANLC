@@ -10,7 +10,6 @@ This task aims to develop a detailed, visually appealing dashboard to monitor an
   6.	What is the trend in CO2 emissions from 2000 to 2020?
   7.	Which country generates the most electricity from nuclear sources?
   8.	What is the percentage of electricity generated from renewables by Brazil?
-
 # Solution:
 # Data Cleaning:
 The following tasks were performed during data cleaning:
@@ -23,37 +22,37 @@ In this phase, the following steps were taken:
   +	Created a Date table to enable time-based analysis. Power BI benefits from a dedicated date table, ensuring consistent time-based filtering.
   +	Created a Measure table to store KPIs like Total Energy Consumption, Cost, and Carbon Emissions, consolidating calculated metrics in a single place for easier management.
 # Creating Visualizations:
-1. KPIs (Cards):
-Count of Entities: Displays the total number of entities being analyzed (176).
-Total Land Area: Shows the cumulative land area across entities (2 billion km²).
-Access to Clean Fuels for Cooking: Indicates the number of people with access to clean fuels for cooking (220.13K).
-Access to Electricity (% of Population): Shows the percentage of the population with access to electricity (287.24K).
-2. Electricity from Fossil Fuels by Entity (Bar Chart):
-A bar chart displays electricity generated from fossil fuels (TWh) by each entity.
-China and the United States lead in electricity generation from fossil fuels.
-Other countries, such as India, Japan, and Germany, show significantly lower values.
-3. GDP Growth by Year (Line Chart):
-A line chart shows GDP growth over time.
-Steady growth observed from 2000, with fluctuations around 2010.
-Sharp decline towards 2020, likely due to recent global economic events.
-4. CO₂ Emissions by Year (Line Chart):
-A line chart tracks CO₂ emissions (kt) over the years.
-Upward trend in CO₂ emissions, peaking around 2020, indicating increased fossil fuel consumption and industrial activity.
-5. Electricity from Nuclear by Entity (Pie Chart):
-A pie chart shows the distribution of nuclear-generated electricity (TWh) by entity.
-The United States and France contribute the most, with Japan, China, and Germany following.
-Smaller contributions from Canada, Ukraine, and other entities.
-6. Electricity from Renewables by Entity (Pie Chart):
-A pie chart represents electricity generation from renewable sources (TWh) by entity.
-China and the United States lead in renewable energy generation, followed by Brazil, Canada, and India.
-Other countries, including Norway and Japan, show moderate contributions.
-7. Interactive Filters (Slicers):
-Year and Entity Slicers: Filters allow users to adjust the dashboard view based on specific years and entities, enabling tailored data analysis.
-This dashboard allows users to explore sales and profit data interactively, track performance, and make data-driven decisions effectively.
+  1. KPIs (Cards):
+    Count of Entities: Displays the total number of entities being analyzed (176).
+    Total Land Area: Shows the cumulative land area across entities (2 billion km²).
+    Access to Clean Fuels for Cooking: Indicates the number of people with access to clean fuels for cooking (220.13K).
+    Access to Electricity (% of Population): Shows the percentage of the population with access to electricity (287.24K).
+  2. Electricity from Fossil Fuels by Entity (Bar Chart):
+  A bar chart displays electricity generated from fossil fuels (TWh) by each entity.
+     China and the United States lead in electricity generation from fossil fuels.
+     Other countries, such as India, Japan, and Germany, show significantly lower values.
+  3. GDP Growth by Year (Line Chart):
+  A line chart shows GDP growth over time.
+    Steady growth observed from 2000, with fluctuations around 2010.
+    Sharp decline towards 2020, likely due to recent global economic events.
+  4. CO₂ Emissions by Year (Line Chart):
+  A line chart tracks CO₂ emissions (kt) over the years.
+    Upward trend in CO₂ emissions, peaking around 2020, indicating increased fossil fuel consumption and industrial activity.
+  5. Electricity from Nuclear by Entity (Pie Chart):
+  A pie chart shows the distribution of nuclear-generated electricity (TWh) by entity.
+     The United States and France contribute the most, with Japan, China, and Germany following.
+     Smaller contributions from Canada, Ukraine, and other entities.
+  6. Electricity from Renewables by Entity (Pie Chart):
+  A pie chart represents electricity generation from renewable sources (TWh) by entity.
+    China and the United States lead in renewable energy generation, followed by Brazil, Canada, and India.
+    Other countries, including Norway and Japan, show moderate contributions.
+  7. Interactive Filters (Slicers):
+  Year and Entity Slicers: Filters allow users to adjust the dashboard view based on specific years and entities, enabling tailored data analysis.
 # Sample Screenshots
-![image] 
----
-![image]
+# page 1
+![Screenshot 2024-11-12 114246](https://github.com/user-attachments/assets/76d99db3-26c3-496d-a14a-39bfb797acfc)
+# page 2
+![Screenshot 2024-11-12 114312](https://github.com/user-attachments/assets/2c0129e1-291b-4922-89c1-60df25d60bbc)
 # Conclusion:
 The Energy Consumption Analytics Dashboard provides a holistic view of key metrics related to energy use and cost, yielding valuable insights for efficiency optimization. By cleaning, modeling, and visualizing the data, users gain intuitive access to energy data, enabling informed decision-making for reducing energy costs, targeting high-consumption areas, and managing carbon emissions.
 
