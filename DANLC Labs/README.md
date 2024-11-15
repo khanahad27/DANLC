@@ -3,7 +3,7 @@
   2.	Sort & Filter Lab
   3.	VLookup Lab
   4.	HLookup Lab
-  5.	Index & Match Function
-  6.	If Statement
+  5.	Index & Match Function Lab
+  6.	If Statement Lab
 
 
