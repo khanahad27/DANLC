@@ -13,19 +13,19 @@ The analysis uses a CSV file named heart_attack_prediction_dataset.csv. This fil
 
  # Cardiac Health Analysis:
  Generates various visualizations using Matplotlib, Seaborn, providing insights into different aspects of the dataset:
- 1. Age Distribution by Country and Gender
- 2. Patient Distribution by Continent
- 3. Blood Pressure (Countries by Continent)
- 4. Distribution of Cholesterol Levels
- 5. Exercise Hours Per Week by Country
+ 1. Age Distribution By Country and Gender
+ 2. Patient Distribution By Continent
+ 3. Blood Pressure By Countries & Continent)
+ 4. Distribution of Cholesterol Levels By Age
+ 5. Exercise Hours Per Week By Country
  6. Diet Distribution
- 7. Heart Rate by Age
- 8. Alcohol Consumption by Continent
- 9. Average BMI (Country and Continent)
- 10. Age Distribution by Smoking Status
+ 7. Heart Rate By Age
+ 8. Alcohol Consumption By Continent
+ 9. Average BMI By Country & Continent
+ 10. Age Distribution By Smoking Status
  11. Obesity Status Distribution
- 12. Average Heart Attack Risk Over Countries
- 13. Stress Level by Country
+ 12. Average Heart Attack Risk By Countries
+ 13. Stress Level By Country
 
 # Conclusion:
  The analysis highlights key factors influencing heart health, including age, cholesterol levels, and lifestyle habits. Patients range from 18 to 90 years, with an average cholesterol level of 260 mg/dL. Lifestyle disparities, such as variations in physical activity, sedentary hours, and BMI, significantly impact heart attack risk, which is elevated in 36% of cases. These findings emphasize the importance of balanced habits and proactive health measures to mitigate cardiovascular risks.
