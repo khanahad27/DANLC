@@ -1,4 +1,4 @@
-# Traffic-Accident-Analysis
+# Cardiac Arrest Analysis
 This Python project analyzes heart attack prediction data using Pandas, Matplotlib, and Seaborn. The dataset provides critical insights into factors such as cholesterol levels, blood pressure, heart rate, diabetes, smoking, obesity, alcohol consumption, diet, stress levels, and their impact on heart attack risk. High risks of heart attacks are observed under specific conditions, emphasizing the need for targeted health interventions and preventive measures.
 
 # Data
