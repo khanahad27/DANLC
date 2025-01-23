@@ -11,7 +11,7 @@ The analysis uses a CSV file named heart_attack_prediction_dataset.csv. This fil
  
  -> Drops irrelevant or mostly empty columns .
 
- # Cardiac Health Analysis:
+ # Exploratory Data Analysis:
  Generates various visualizations using Matplotlib, Seaborn, providing insights into different aspects of the dataset:
  1. Age Distribution By Country and Gender
  2. Patient Distribution By Continent
