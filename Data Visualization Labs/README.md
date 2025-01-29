@@ -1,4 +1,4 @@
-# DANLC (Data Analytics No+Low Code) Labs
+# Data Visualization Labs
   1.	Conditional Formatting Lab
   2.	Sort & Filter Lab
   3.	VLookup Lab

@@ -13,10 +13,10 @@ The analysis uses a CSV file named heart_attack_prediction_dataset.csv. This fil
 
  # Exploratory Data Analysis:
  Generates various visualizations using Matplotlib, Seaborn, providing insights into different aspects of the dataset:
- 1. Age Distribution By Country and Gender
+ 1. Age Distribution By Country & Gender
  2. Patient Distribution By Continent
- 3. Blood Pressure By Countries & Continent)
- 4. Distribution of Cholesterol Levels By Age
+ 3. Blood Pressure Count By Countries & Continent
+ 4. Cholesterol Distribution
  5. Exercise Hours Per Week By Country
  6. Diet Distribution
  7. Heart Rate By Age
