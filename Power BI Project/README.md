@@ -50,9 +50,9 @@ In this phase, the following steps were taken:
   Year and Entity Slicers: Filters allow users to adjust the dashboard view based on specific years and entities, enabling tailored data analysis.
 # Sample Screenshots
 # page 1
-![Screenshot 2024-11-12 114246](https://github.com/user-attachments/assets/76d99db3-26c3-496d-a14a-39bfb797acfc)
+![Screenshot 2025-01-29 224605](https://github.com/user-attachments/assets/9f7d6cdd-5dba-4ef3-8c04-0d6aa8d9931c)
 # page 2
-![Screenshot 2024-11-12 114312](https://github.com/user-attachments/assets/2c0129e1-291b-4922-89c1-60df25d60bbc)
+![Screenshot 2025-01-29 224619](https://github.com/user-attachments/assets/e10799d7-4bfd-4b60-b43f-99b51bf2dee3)
 # Conclusion:
 The Energy Consumption Analytics Dashboard provides a holistic view of key metrics related to energy use and cost, yielding valuable insights for efficiency optimization. By cleaning, modeling, and visualizing the data, users gain intuitive access to energy data, enabling informed decision-making for reducing energy costs, targeting high-consumption areas, and managing carbon emissions.
 
