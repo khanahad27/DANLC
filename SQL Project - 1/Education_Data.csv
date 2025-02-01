@@ -1,0 +1,1001 @@
+Student_ID,Name,Age,Gender,Grade_Level,Math_Score,English_Score,Science_Score,History_Score,Attendance_Rate,Participation_Rate,Parental_Involvement,Study_Hours_Per_Week,Extracurricular_Activities,Scholarship_Status,Household_Income,School_Funding_Level,Technology_Access,Test_Anxiety_Level,Future_Plans
+S0001,Student_1,19,Female,Senior,79,52,90,73,87.52,72.14,Low,32,None,Yes,71291,Medium,Yes,Medium,Job
+S0002,Student_2,15,Female,Sophomore,68,44,77,52,90.33,73.62,High,29,Sports,Yes,66654,Low,Yes,Low,Undecided
+S0003,Student_3,17,Non-Binary,Senior,49,41,68,68,94.45,65.09,Medium,31,Clubs,Yes,63072,Low,No,Medium,Gap Year
+S0004,Student_4,16,Non-Binary,Senior,70,87,50,42,77.08,75.48,Medium,18,Sports,Yes,93807,Medium,No,High,Job
+S0005,Student_5,22,Non-Binary,Freshman,91,87,88,70,90.48,65.26,Low,32,None,Yes,90653,Medium,Yes,High,Undecided
+S0006,Student_6,15,Female,Senior,87,55,48,57,77.93,65.48,Low,38,Sports,No,92326,High,No,Medium,Gap Year
+S0007,Student_7,19,Non-Binary,Junior,49,42,78,63,96.91,70.46,High,18,None,Yes,38547,Low,Yes,High,Job
+S0008,Student_8,16,Female,Junior,48,51,86,63,87.8,76.89,Low,21,None,No,60734,Low,No,High,Gap Year
+S0009,Student_9,22,Male,Junior,54,73,83,87,75.8,63.49,Medium,23,Arts,Yes,51264,Medium,Yes,Low,College
+S0010,Student_10,19,Female,Freshman,68,78,49,91,98.55,77.46,Low,38,None,No,28200,High,No,High,Gap Year
+S0011,Student_11,25,Non-Binary,Senior,57,82,88,98,79.82,97.4,Medium,36,None,No,59959,Medium,Yes,High,Job
+S0012,Student_12,24,Female,Junior,55,75,53,81,92.73,89.16,Medium,29,Sports,No,30165,High,No,Medium,Undecided
+S0013,Student_13,24,Non-Binary,Junior,66,77,42,97,96.24,61.93,Medium,13,Clubs,No,86660,Low,No,Medium,Job
+S0014,Student_14,25,Female,Senior,85,87,81,57,96.61,91.59,Low,6,Clubs,Yes,29361,High,No,Low,Gap Year
+S0015,Student_15,17,Female,Senior,65,61,73,85,95.51,81.09,Medium,22,None,Yes,70370,Medium,Yes,High,Undecided
+S0016,Student_16,25,Female,Senior,84,91,100,96,80.23,69.51,Low,33,None,Yes,61783,High,No,Medium,College
+S0017,Student_17,21,Non-Binary,Senior,82,66,97,81,84.35,71.55,High,12,Clubs,Yes,76220,Low,Yes,Medium,Gap Year
+S0018,Student_18,17,Male,Sophomore,52,64,72,44,79.73,95.87,High,33,Sports,Yes,34924,Medium,Yes,High,Undecided
+S0019,Student_19,15,Male,Senior,49,61,45,52,91.51,88.33,Medium,16,None,No,86876,Medium,Yes,Low,Undecided
+S0020,Student_20,25,Male,Senior,76,52,100,80,76.54,96.06,Medium,26,Arts,Yes,89427,High,No,High,Undecided
+S0021,Student_21,24,Non-Binary,Sophomore,42,96,85,66,94.93,88.22,Low,20,Arts,No,56033,Low,No,High,Job
+S0022,Student_22,20,Non-Binary,Freshman,68,79,87,68,80.67,94.93,Medium,21,Clubs,No,23675,Low,No,Medium,Undecided
+S0023,Student_23,19,Male,Sophomore,66,54,89,94,87.59,75.26,Medium,33,None,Yes,51877,Low,No,High,College
+S0024,Student_24,24,Female,Sophomore,76,93,53,67,96.2,74.81,High,22,Sports,No,99826,Medium,Yes,Medium,Undecided
+S0025,Student_25,22,Male,Senior,81,50,92,49,79.46,60.42,Low,13,None,No,47995,High,No,Low,Undecided
+S0026,Student_26,25,Non-Binary,Freshman,78,55,43,49,82.73,88.14,Medium,10,None,No,46799,Low,No,High,Job
+S0027,Student_27,18,Male,Sophomore,99,89,55,94,89.1,60.04,High,20,Sports,No,73048,Low,Yes,Low,Gap Year
+S0028,Student_28,18,Male,Senior,86,43,81,61,88.47,66.38,Medium,22,Arts,Yes,82974,Medium,No,Low,Job
+S0029,Student_29,19,Male,Sophomore,92,64,53,47,97.1,70.42,High,31,Arts,No,36496,Medium,Yes,Low,College
+S0030,Student_30,17,Female,Freshman,66,56,51,54,87.21,96.45,High,22,Arts,No,54478,High,Yes,High,College
+S0031,Student_31,22,Female,Junior,68,46,67,100,80.63,60.02,High,37,Sports,No,70128,Low,No,High,College
+S0032,Student_32,16,Male,Junior,47,77,64,99,83.76,73.5,Medium,27,Clubs,Yes,36975,High,Yes,High,Job
+S0033,Student_33,25,Male,Freshman,64,77,70,87,96.33,75.91,Low,20,Clubs,Yes,25162,Medium,No,High,Job
+S0034,Student_34,16,Male,Junior,76,99,58,44,96.41,75.78,High,30,Clubs,No,87908,Medium,No,Medium,College
+S0035,Student_35,22,Male,Freshman,59,61,74,98,86.43,60.09,Low,27,Arts,No,98034,High,Yes,High,Gap Year
+S0036,Student_36,18,Male,Sophomore,61,75,63,63,96.22,93.32,Medium,39,Sports,No,78145,Low,No,High,Job
+S0037,Student_37,19,Female,Junior,46,59,63,43,81.21,94.98,High,15,Arts,Yes,78364,High,No,High,Undecided
+S0038,Student_38,21,Non-Binary,Junior,45,50,49,80,82.5,91.3,High,32,Sports,No,57023,High,Yes,High,Undecided
+S0039,Student_39,19,Female,Sophomore,51,55,80,74,89.8,70.28,Low,37,None,No,33985,Medium,Yes,High,Undecided
+S0040,Student_40,25,Non-Binary,Junior,63,60,79,84,99.76,60.92,High,5,Arts,Yes,30023,Low,No,Medium,Job
+S0041,Student_41,25,Non-Binary,Sophomore,80,99,82,82,91.39,76.83,Low,28,Arts,No,42663,High,No,Medium,Undecided
+S0042,Student_42,16,Non-Binary,Freshman,63,48,41,52,88.57,61.44,Low,27,Clubs,No,59936,High,No,Medium,Undecided
+S0043,Student_43,21,Female,Sophomore,66,57,96,73,98.07,70.8,High,9,Arts,No,26799,High,Yes,Medium,Undecided
+S0044,Student_44,25,Male,Senior,78,53,83,50,91.87,83.83,Low,32,None,No,72400,Medium,No,Low,Gap Year
+S0045,Student_45,17,Non-Binary,Senior,53,73,51,55,77.13,71.92,High,34,None,No,93802,Medium,Yes,High,College
+S0046,Student_46,15,Male,Junior,55,56,46,48,83.61,88.9,High,12,Sports,No,61447,Medium,No,Low,College
+S0047,Student_47,19,Male,Freshman,50,55,79,44,84.8,89.0,Low,6,None,Yes,53161,Low,No,Low,Gap Year
+S0048,Student_48,17,Female,Junior,54,74,42,57,79.19,83.37,Medium,16,None,No,90658,Low,No,Medium,Undecided
+S0049,Student_49,16,Male,Freshman,75,75,89,66,99.86,93.89,Medium,21,None,Yes,90970,Medium,No,Medium,Gap Year
+S0050,Student_50,23,Female,Senior,69,85,66,96,83.41,74.5,Low,35,Arts,No,98862,Low,Yes,Medium,College
+S0051,Student_51,20,Male,Senior,68,43,77,56,75.0,69.62,Low,32,Clubs,Yes,73742,Medium,No,High,College
+S0052,Student_52,25,Male,Sophomore,83,58,48,69,96.78,65.36,Medium,15,Arts,Yes,41912,High,No,Low,Job
+S0053,Student_53,21,Non-Binary,Sophomore,48,52,99,96,90.78,90.43,Low,16,Sports,Yes,89239,Low,No,Low,Job
+S0054,Student_54,25,Female,Freshman,44,54,87,86,95.58,75.98,High,8,None,No,38569,Medium,Yes,Medium,Job
+S0055,Student_55,19,Female,Senior,49,93,73,79,93.16,91.01,Low,11,Arts,No,40967,High,Yes,Medium,Job
+S0056,Student_56,16,Male,Junior,82,84,40,83,99.07,62.69,High,30,Sports,Yes,84203,Medium,No,High,Undecided
+S0057,Student_57,25,Male,Freshman,62,55,69,62,93.18,82.82,Medium,6,Clubs,No,88624,High,Yes,Medium,Undecided
+S0058,Student_58,24,Male,Senior,44,49,78,65,93.13,70.44,Medium,31,None,No,46409,Medium,No,Medium,Gap Year
+S0059,Student_59,24,Male,Junior,79,91,64,84,94.62,84.05,High,26,Clubs,No,27502,Medium,Yes,Low,Gap Year
+S0060,Student_60,21,Female,Freshman,88,66,75,75,96.28,82.86,Low,24,None,No,93639,High,Yes,High,Job
+S0061,Student_61,15,Female,Senior,60,89,68,66,97.53,73.36,High,5,Clubs,No,97824,Medium,No,Medium,Undecided
+S0062,Student_62,23,Male,Junior,87,69,78,100,94.84,70.23,Medium,33,Sports,No,21243,Medium,No,Medium,Gap Year
+S0063,Student_63,15,Female,Junior,81,66,98,69,81.16,76.59,Medium,6,Arts,Yes,24800,Medium,Yes,High,College
+S0064,Student_64,18,Male,Sophomore,52,65,41,81,95.99,63.23,High,32,None,No,64481,High,Yes,High,College
+S0065,Student_65,17,Male,Senior,99,67,51,74,85.79,63.77,Low,19,None,No,46480,High,Yes,Medium,Job
+S0066,Student_66,17,Female,Junior,59,88,56,42,83.92,89.76,Medium,35,Sports,Yes,86685,Low,No,High,Gap Year
+S0067,Student_67,23,Non-Binary,Freshman,45,91,90,85,99.7,81.7,Medium,33,Sports,Yes,44067,Low,Yes,High,College
+S0068,Student_68,17,Male,Sophomore,76,68,50,67,91.37,96.49,High,19,None,Yes,94106,Low,No,High,Undecided
+S0069,Student_69,23,Male,Freshman,85,70,48,50,91.57,70.88,Low,35,None,No,70898,High,No,High,College
+S0070,Student_70,17,Male,Senior,80,99,66,54,90.89,84.32,Low,9,None,No,93440,Low,No,Low,College
+S0071,Student_71,16,Non-Binary,Freshman,84,74,95,69,93.88,92.02,Low,29,Clubs,Yes,46119,High,Yes,Medium,College
+S0072,Student_72,18,Female,Freshman,86,88,65,40,86.68,88.98,Medium,20,Sports,Yes,74423,Low,Yes,High,College
+S0073,Student_73,20,Female,Freshman,50,50,67,89,83.89,86.79,High,32,Arts,Yes,23280,Low,Yes,Medium,Gap Year
+S0074,Student_74,19,Female,Junior,70,43,66,87,78.96,91.56,High,27,Clubs,Yes,82568,Low,Yes,Medium,Gap Year
+S0075,Student_75,21,Female,Junior,67,91,100,77,96.68,85.94,Low,34,Arts,No,56735,Medium,Yes,Low,College
+S0076,Student_76,25,Non-Binary,Senior,67,58,53,89,85.44,92.31,Low,29,Sports,No,87061,High,No,Medium,Undecided
+S0077,Student_77,20,Non-Binary,Freshman,94,56,48,47,90.41,75.26,Low,12,Arts,No,73084,High,No,Medium,Job
+S0078,Student_78,19,Female,Senior,67,71,80,62,79.13,82.85,Medium,18,Arts,No,20221,High,Yes,Low,Job
+S0079,Student_79,22,Female,Sophomore,56,47,71,40,93.87,75.53,Low,21,Clubs,No,62819,Medium,Yes,Medium,Job
+S0080,Student_80,24,Female,Freshman,83,80,66,94,78.56,84.53,Medium,31,Clubs,No,76272,High,Yes,Low,College
+S0081,Student_81,19,Non-Binary,Junior,74,77,54,71,91.6,93.56,Low,21,Clubs,No,36194,Low,No,High,Gap Year
+S0082,Student_82,19,Male,Freshman,69,42,57,53,98.76,74.2,Low,16,Sports,No,70281,High,Yes,High,Job
+S0083,Student_83,25,Non-Binary,Junior,96,92,90,79,99.73,73.61,Low,6,Clubs,No,92837,Low,Yes,Medium,College
+S0084,Student_84,17,Male,Freshman,60,98,66,53,76.63,81.86,High,23,None,No,99235,Medium,Yes,Low,Gap Year
+S0085,Student_85,16,Non-Binary,Junior,76,93,69,62,75.37,66.96,Low,5,None,No,71062,Low,Yes,Medium,Job
+S0086,Student_86,22,Non-Binary,Freshman,100,97,98,64,79.96,94.93,Medium,25,Clubs,Yes,58945,Low,Yes,High,Job
+S0087,Student_87,18,Male,Sophomore,45,90,78,65,75.42,93.91,High,26,Clubs,No,41109,High,No,Medium,Undecided
+S0088,Student_88,23,Female,Sophomore,63,66,44,89,79.44,88.59,High,5,None,No,72411,Medium,No,Medium,Job
+S0089,Student_89,25,Non-Binary,Junior,86,85,40,57,96.69,67.7,Medium,38,Clubs,No,90224,High,No,Medium,Gap Year
+S0090,Student_90,18,Non-Binary,Sophomore,57,67,65,43,86.94,93.99,Medium,11,Clubs,Yes,96236,Low,No,Medium,College
+S0091,Student_91,25,Non-Binary,Senior,79,96,75,94,87.01,61.37,Medium,31,Arts,Yes,34433,High,No,High,Undecided
+S0092,Student_92,21,Male,Junior,65,64,41,99,99.5,93.87,High,21,Clubs,No,38824,High,No,High,Job
+S0093,Student_93,20,Non-Binary,Senior,85,53,85,57,87.14,96.5,High,24,Sports,Yes,82419,Medium,No,Low,Job
+S0094,Student_94,21,Female,Senior,87,86,100,81,99.75,76.38,Low,33,Arts,No,29745,Medium,No,High,College
+S0095,Student_95,21,Male,Freshman,71,59,78,88,89.56,97.86,Low,30,None,Yes,82311,Low,Yes,Medium,Gap Year
+S0096,Student_96,17,Female,Freshman,94,51,53,48,79.09,81.59,High,39,Sports,Yes,43890,High,No,High,Gap Year
+S0097,Student_97,19,Non-Binary,Sophomore,52,92,68,74,93.86,69.49,Low,7,Sports,No,96261,Medium,No,Medium,College
+S0098,Student_98,21,Male,Freshman,81,96,97,72,94.04,69.19,High,31,Sports,No,85615,Medium,Yes,High,Undecided
+S0099,Student_99,20,Male,Junior,73,83,56,79,88.03,99.61,Medium,37,Arts,No,23932,Medium,Yes,High,Gap Year
+S0100,Student_100,21,Female,Sophomore,75,41,58,83,76.95,76.33,Low,12,Arts,No,79559,Medium,Yes,Medium,College
+S0101,Student_101,17,Male,Junior,85,93,81,80,81.11,67.14,Low,9,None,No,39461,High,No,Medium,College
+S0102,Student_102,23,Male,Freshman,42,79,76,82,84.49,80.25,High,35,Clubs,Yes,75135,Medium,Yes,Medium,College
+S0103,Student_103,18,Male,Sophomore,100,77,65,45,98.78,68.52,Low,11,None,No,31427,Low,No,Medium,Undecided
+S0104,Student_104,19,Female,Senior,77,95,100,68,85.08,92.41,Medium,10,Sports,No,61327,Medium,Yes,High,Gap Year
+S0105,Student_105,17,Male,Junior,72,74,49,51,75.89,97.41,Low,26,Arts,No,83711,Medium,No,High,Gap Year
+S0106,Student_106,16,Male,Sophomore,71,85,69,80,85.59,89.99,Medium,25,Sports,No,43100,Low,No,Low,Job
+S0107,Student_107,17,Male,Freshman,53,73,61,41,88.75,81.52,High,24,None,Yes,21904,High,Yes,High,Job
+S0108,Student_108,19,Non-Binary,Freshman,92,57,41,55,82.41,74.63,Medium,30,Clubs,No,27451,Low,No,Low,Job
+S0109,Student_109,18,Male,Senior,75,76,69,62,83.14,68.67,High,31,None,Yes,91553,Low,No,Medium,Undecided
+S0110,Student_110,20,Female,Senior,81,74,66,85,86.12,62.85,High,9,None,No,21696,Low,No,High,College
+S0111,Student_111,24,Female,Sophomore,58,87,46,57,97.25,92.94,Medium,6,Sports,Yes,87226,High,No,Low,Gap Year
+S0112,Student_112,18,Male,Freshman,51,87,68,92,85.69,87.27,Medium,30,None,Yes,55152,Medium,No,Low,Undecided
+S0113,Student_113,25,Male,Freshman,59,97,95,92,80.43,65.62,Low,6,Clubs,Yes,54976,Medium,Yes,High,Gap Year
+S0114,Student_114,18,Female,Senior,59,96,88,68,79.66,93.2,Medium,9,Clubs,No,64110,Medium,Yes,High,Job
+S0115,Student_115,21,Female,Freshman,83,59,94,61,78.77,99.4,High,25,Sports,Yes,72071,Medium,No,Low,Undecided
+S0116,Student_116,24,Male,Sophomore,79,44,89,63,82.52,73.22,Low,5,Sports,Yes,71825,Medium,Yes,High,College
+S0117,Student_117,24,Non-Binary,Senior,85,82,73,61,95.34,60.05,Medium,14,Arts,Yes,82986,Medium,Yes,Medium,Job
+S0118,Student_118,23,Male,Sophomore,43,87,85,47,92.98,93.26,Low,33,Clubs,Yes,72652,High,No,High,Gap Year
+S0119,Student_119,16,Non-Binary,Junior,88,53,67,51,97.47,98.83,Low,24,Sports,No,23586,High,No,Medium,Job
+S0120,Student_120,20,Male,Senior,57,71,72,96,83.8,84.71,High,12,Arts,No,89665,Medium,Yes,Medium,College
+S0121,Student_121,22,Female,Junior,42,57,58,42,79.12,98.91,Medium,12,Sports,No,84829,High,Yes,High,Gap Year
+S0122,Student_122,25,Non-Binary,Senior,56,96,76,89,98.32,79.75,High,28,Arts,Yes,89734,High,No,Low,Gap Year
+S0123,Student_123,18,Non-Binary,Junior,81,84,80,78,86.61,91.62,Medium,20,Clubs,No,84444,Medium,No,High,Gap Year
+S0124,Student_124,18,Male,Sophomore,83,70,63,54,94.96,80.57,High,19,Arts,Yes,93332,High,Yes,Low,Gap Year
+S0125,Student_125,15,Female,Senior,59,78,43,79,76.21,75.57,High,16,Arts,Yes,34303,Low,Yes,High,Job
+S0126,Student_126,21,Male,Freshman,72,49,68,81,80.97,85.52,Medium,29,Clubs,No,31477,Low,Yes,High,Gap Year
+S0127,Student_127,23,Male,Senior,47,86,44,76,98.39,99.88,High,21,Arts,No,39784,Medium,Yes,Low,College
+S0128,Student_128,25,Female,Junior,76,57,94,58,76.52,98.52,High,12,Arts,Yes,27924,High,No,Medium,Job
+S0129,Student_129,21,Non-Binary,Senior,82,94,50,80,76.68,98.98,High,8,Arts,No,81634,Medium,Yes,Low,Undecided
+S0130,Student_130,16,Male,Senior,82,88,99,93,94.83,81.14,High,6,None,No,95372,High,Yes,Low,College
+S0131,Student_131,23,Non-Binary,Sophomore,92,52,57,49,76.31,65.81,Low,22,Clubs,No,58275,High,No,High,Job
+S0132,Student_132,15,Non-Binary,Freshman,88,80,69,89,96.95,92.63,Low,37,Clubs,No,46873,High,No,Medium,Gap Year
+S0133,Student_133,17,Male,Sophomore,94,97,93,43,77.06,76.38,Medium,5,Clubs,Yes,87525,Medium,Yes,Medium,Gap Year
+S0134,Student_134,23,Female,Freshman,55,95,64,74,80.04,62.44,Medium,32,Sports,Yes,93550,Low,Yes,High,College
+S0135,Student_135,23,Male,Senior,46,46,54,92,98.47,84.69,High,30,Arts,Yes,70559,High,No,Low,Job
+S0136,Student_136,17,Non-Binary,Sophomore,93,42,100,70,86.44,77.0,Medium,8,Clubs,Yes,25788,High,No,Low,College
+S0137,Student_137,24,Male,Junior,61,41,53,47,83.99,85.35,High,34,Clubs,No,29341,Medium,No,Low,College
+S0138,Student_138,20,Male,Freshman,75,43,66,76,86.82,96.56,Medium,18,Arts,No,58900,Low,No,Low,Job
+S0139,Student_139,22,Male,Junior,48,100,77,41,79.04,84.4,Medium,36,None,Yes,24414,High,Yes,High,College
+S0140,Student_140,15,Male,Senior,92,98,91,59,76.29,62.08,Low,28,Clubs,Yes,68965,Medium,Yes,Low,College
+S0141,Student_141,20,Non-Binary,Sophomore,83,56,91,67,80.77,99.5,Low,38,Arts,Yes,23209,Medium,No,Medium,Undecided
+S0142,Student_142,17,Female,Junior,90,96,76,99,91.85,87.95,Medium,27,Clubs,No,58825,Medium,Yes,High,Job
+S0143,Student_143,19,Male,Senior,88,49,91,43,78.82,78.33,High,17,Sports,Yes,26459,Low,No,Medium,Job
+S0144,Student_144,16,Male,Freshman,75,95,95,40,75.61,97.31,Medium,29,Clubs,No,32618,Low,No,Low,Undecided
+S0145,Student_145,16,Non-Binary,Freshman,74,82,82,55,83.1,88.78,High,29,Arts,Yes,23970,Medium,Yes,High,College
+S0146,Student_146,21,Male,Sophomore,93,69,70,79,81.77,71.76,Low,16,Sports,Yes,76681,Medium,No,High,College
+S0147,Student_147,16,Female,Senior,42,57,90,77,87.19,86.83,High,15,Arts,No,88489,Medium,Yes,High,Job
+S0148,Student_148,22,Non-Binary,Junior,70,44,48,47,81.95,85.71,High,39,Sports,No,62054,Medium,Yes,High,College
+S0149,Student_149,16,Non-Binary,Junior,43,50,71,82,75.03,75.34,Medium,40,None,No,77999,High,Yes,Low,Undecided
+S0150,Student_150,22,Male,Junior,90,99,86,86,92.74,99.78,Low,25,Clubs,No,90441,Low,Yes,Low,Job
+S0151,Student_151,15,Non-Binary,Freshman,79,89,82,100,90.67,91.54,High,22,Arts,No,47869,Low,Yes,Medium,Undecided
+S0152,Student_152,24,Female,Senior,83,88,81,81,92.98,63.05,Medium,28,Arts,Yes,85647,Medium,Yes,Medium,Gap Year
+S0153,Student_153,17,Male,Freshman,87,93,75,83,78.52,96.66,High,29,Arts,No,66157,Low,Yes,Low,Undecided
+S0154,Student_154,18,Male,Sophomore,74,63,93,75,76.29,80.63,Low,40,Arts,Yes,81675,High,No,High,Undecided
+S0155,Student_155,15,Male,Senior,87,99,42,95,94.11,78.7,High,20,None,Yes,32517,Medium,Yes,Low,College
+S0156,Student_156,18,Male,Senior,58,97,75,48,89.45,65.14,High,21,Sports,Yes,48634,Medium,Yes,Medium,Gap Year
+S0157,Student_157,22,Male,Senior,53,63,92,81,79.31,88.68,Low,38,None,Yes,66300,Low,No,High,Undecided
+S0158,Student_158,24,Female,Sophomore,44,54,47,77,76.14,72.63,Low,28,None,No,98305,Medium,Yes,High,Gap Year
+S0159,Student_159,24,Male,Sophomore,63,55,85,60,95.57,61.66,Medium,39,Arts,Yes,90187,Medium,Yes,Medium,Gap Year
+S0160,Student_160,20,Non-Binary,Junior,98,91,56,68,78.37,97.35,Medium,22,None,No,54403,Medium,Yes,High,Gap Year
+S0161,Student_161,15,Male,Freshman,52,60,60,95,87.05,82.25,Medium,37,Sports,No,67612,High,Yes,High,Job
+S0162,Student_162,23,Male,Senior,55,68,74,97,97.59,95.22,Low,15,Sports,Yes,40903,Medium,Yes,Medium,College
+S0163,Student_163,20,Non-Binary,Junior,49,90,74,46,99.82,68.32,Low,6,Sports,No,43347,Medium,Yes,High,Gap Year
+S0164,Student_164,23,Male,Senior,78,88,52,61,98.84,63.7,High,13,Arts,No,27996,Medium,No,Medium,College
+S0165,Student_165,20,Female,Sophomore,58,56,72,85,89.28,71.49,Medium,33,None,Yes,60067,High,Yes,High,Undecided
+S0166,Student_166,25,Non-Binary,Junior,69,87,59,83,79.42,62.28,Medium,12,Arts,Yes,72768,High,Yes,High,Job
+S0167,Student_167,18,Non-Binary,Senior,71,87,84,62,88.64,89.2,Low,25,Sports,Yes,98264,Medium,No,High,Job
+S0168,Student_168,18,Female,Freshman,58,94,93,95,85.86,84.15,Medium,18,Arts,No,82007,Medium,No,Medium,Gap Year
+S0169,Student_169,24,Male,Sophomore,66,72,49,77,90.35,70.58,Low,13,Arts,No,59334,Low,No,Medium,Undecided
+S0170,Student_170,21,Female,Junior,77,59,80,100,88.7,62.74,Low,29,Clubs,Yes,20628,Medium,Yes,High,Undecided
+S0171,Student_171,22,Non-Binary,Freshman,45,80,53,73,96.68,92.36,Low,29,Sports,No,57509,Medium,Yes,Low,Undecided
+S0172,Student_172,20,Non-Binary,Junior,80,75,79,77,93.52,61.43,High,35,Clubs,Yes,39752,High,No,High,College
+S0173,Student_173,16,Female,Senior,40,47,45,75,99.9,79.89,Low,8,Clubs,Yes,72756,Low,Yes,Low,Gap Year
+S0174,Student_174,22,Male,Junior,68,68,43,68,80.64,95.87,Low,9,Clubs,No,69036,High,Yes,Medium,Gap Year
+S0175,Student_175,24,Female,Freshman,53,100,45,81,94.28,81.32,Low,11,Clubs,Yes,75012,Medium,Yes,Low,Job
+S0176,Student_176,22,Female,Senior,84,53,68,54,87.31,76.75,High,15,Clubs,No,86900,Low,No,Medium,Gap Year
+S0177,Student_177,19,Male,Senior,66,58,72,88,80.84,91.39,High,24,Arts,Yes,40238,High,Yes,Low,Undecided
+S0178,Student_178,25,Male,Junior,99,51,93,66,94.77,65.81,Low,25,Clubs,No,88176,High,Yes,Medium,Gap Year
+S0179,Student_179,20,Female,Freshman,92,56,79,56,95.87,80.95,Medium,17,Sports,No,59038,Low,No,Low,Job
+S0180,Student_180,17,Non-Binary,Sophomore,63,61,51,95,81.42,97.99,Medium,29,Clubs,No,40361,Low,Yes,Low,Gap Year
+S0181,Student_181,17,Male,Senior,42,90,75,80,87.45,87.1,Low,21,None,Yes,37000,Medium,Yes,High,College
+S0182,Student_182,19,Male,Junior,97,59,83,92,75.12,68.96,Medium,16,Arts,Yes,22793,High,No,Low,College
+S0183,Student_183,25,Female,Sophomore,68,43,50,66,96.54,96.25,High,8,Clubs,Yes,62364,Low,No,Medium,Undecided
+S0184,Student_184,23,Male,Sophomore,66,87,62,61,85.7,91.12,Low,10,Clubs,Yes,25292,Low,Yes,Low,College
+S0185,Student_185,24,Non-Binary,Junior,75,87,62,95,81.1,70.65,Low,14,Clubs,Yes,50479,Low,No,Medium,Gap Year
+S0186,Student_186,15,Female,Junior,47,94,99,63,88.09,65.87,Medium,17,Clubs,Yes,72432,High,No,Low,College
+S0187,Student_187,23,Male,Sophomore,80,42,69,50,77.1,91.29,High,6,Sports,No,77449,Low,Yes,Low,College
+S0188,Student_188,22,Non-Binary,Freshman,53,96,87,97,86.06,82.02,Medium,23,Sports,No,39552,Medium,Yes,High,Gap Year
+S0189,Student_189,23,Male,Freshman,91,92,78,49,89.82,68.04,Low,39,Clubs,No,62972,Low,No,High,Job
+S0190,Student_190,16,Female,Sophomore,88,41,91,63,87.49,79.94,Low,38,Arts,Yes,96636,Low,No,Medium,College
+S0191,Student_191,21,Female,Junior,40,62,75,80,78.59,79.37,High,38,None,Yes,78934,High,Yes,Medium,Undecided
+S0192,Student_192,25,Non-Binary,Junior,77,96,70,78,96.35,86.03,Low,18,Clubs,No,20322,Low,Yes,Low,Gap Year
+S0193,Student_193,25,Non-Binary,Freshman,59,95,78,83,92.88,97.82,Medium,20,Arts,No,47513,High,No,High,College
+S0194,Student_194,19,Female,Senior,64,99,48,90,78.71,97.16,High,6,None,Yes,29589,Low,No,Medium,Undecided
+S0195,Student_195,17,Male,Senior,43,99,78,43,89.22,88.92,Medium,7,Sports,No,48988,Medium,Yes,Low,Job
+S0196,Student_196,25,Non-Binary,Senior,54,50,47,92,79.47,85.02,High,32,None,No,48824,Low,No,Low,Job
+S0197,Student_197,24,Male,Junior,87,95,79,91,87.09,99.59,Medium,35,Sports,No,93445,High,Yes,High,Gap Year
+S0198,Student_198,23,Female,Sophomore,40,93,87,74,92.68,99.07,Medium,6,None,No,36794,Medium,No,High,Undecided
+S0199,Student_199,15,Female,Sophomore,82,66,47,54,99.45,75.92,Low,30,Sports,Yes,47496,High,Yes,High,College
+S0200,Student_200,25,Non-Binary,Freshman,75,67,61,46,90.79,95.34,High,10,Clubs,Yes,90265,Medium,No,High,Job
+S0201,Student_201,21,Female,Senior,75,57,56,61,90.76,71.08,High,8,Sports,No,81871,High,No,Medium,Gap Year
+S0202,Student_202,16,Male,Sophomore,74,59,75,60,78.46,96.95,Medium,11,Sports,Yes,86883,Medium,Yes,Medium,Undecided
+S0203,Student_203,18,Male,Senior,61,95,44,46,81.87,82.1,Low,40,None,No,67179,Medium,No,High,Gap Year
+S0204,Student_204,18,Male,Sophomore,96,98,54,43,91.65,94.63,High,33,Clubs,Yes,91040,Low,Yes,Medium,Job
+S0205,Student_205,16,Non-Binary,Freshman,53,91,83,67,98.18,81.22,High,22,None,Yes,84280,High,No,High,College
+S0206,Student_206,20,Female,Freshman,71,80,57,44,76.31,71.0,High,32,None,Yes,95046,Low,No,Low,College
+S0207,Student_207,24,Non-Binary,Sophomore,77,67,96,67,79.96,63.77,Medium,13,Sports,No,71428,High,No,Low,Job
+S0208,Student_208,23,Male,Senior,73,75,45,81,75.54,85.54,High,28,Clubs,No,68840,Medium,Yes,High,Job
+S0209,Student_209,16,Non-Binary,Sophomore,84,85,77,75,80.25,69.98,High,12,Clubs,No,95349,Low,Yes,Medium,Undecided
+S0210,Student_210,23,Female,Junior,45,94,61,48,91.81,71.41,High,9,Sports,Yes,95987,High,Yes,Medium,College
+S0211,Student_211,18,Female,Junior,74,77,58,68,80.39,96.46,Low,22,Arts,Yes,84315,High,Yes,Low,College
+S0212,Student_212,15,Male,Senior,51,73,49,78,92.58,76.07,High,35,Sports,Yes,91214,High,Yes,Medium,College
+S0213,Student_213,17,Female,Senior,87,52,49,77,82.26,70.69,Low,23,Arts,Yes,23139,Medium,Yes,Low,Undecided
+S0214,Student_214,16,Male,Sophomore,56,40,58,52,75.17,77.61,Low,9,None,No,54743,Low,No,Low,Gap Year
+S0215,Student_215,22,Female,Freshman,87,50,64,42,89.66,88.76,High,26,Clubs,No,44372,Medium,Yes,Medium,Job
+S0216,Student_216,23,Non-Binary,Freshman,71,72,97,89,82.38,91.84,High,28,None,Yes,47533,High,Yes,High,Gap Year
+S0217,Student_217,16,Male,Sophomore,54,43,57,51,94.52,85.59,Medium,12,Clubs,No,98818,Medium,Yes,Low,College
+S0218,Student_218,24,Female,Sophomore,45,89,79,80,93.19,83.37,Low,14,Sports,Yes,86517,Medium,Yes,Medium,Undecided
+S0219,Student_219,25,Female,Freshman,56,60,87,51,82.9,63.18,Medium,33,Clubs,No,86580,Low,Yes,High,Gap Year
+S0220,Student_220,24,Female,Freshman,53,97,74,74,97.36,85.72,Medium,9,Sports,Yes,82876,High,Yes,Medium,Gap Year
+S0221,Student_221,16,Female,Junior,52,53,67,70,95.85,74.99,High,20,Arts,Yes,50063,Medium,Yes,Medium,Gap Year
+S0222,Student_222,19,Non-Binary,Freshman,93,50,67,80,97.52,91.86,High,12,Clubs,No,33445,Medium,Yes,High,Gap Year
+S0223,Student_223,20,Female,Sophomore,87,48,62,75,88.13,64.55,Low,9,Arts,No,68520,High,No,Low,Gap Year
+S0224,Student_224,21,Male,Junior,94,64,46,90,84.39,84.09,High,31,Clubs,No,95187,Low,Yes,High,Job
+S0225,Student_225,21,Male,Junior,44,53,41,83,81.29,83.12,Medium,9,None,Yes,53001,Medium,No,Medium,Undecided
+S0226,Student_226,16,Non-Binary,Sophomore,44,59,96,42,93.32,67.96,Low,8,Clubs,Yes,23934,High,No,Medium,Undecided
+S0227,Student_227,22,Female,Junior,41,44,60,48,79.37,72.51,Low,36,Clubs,Yes,71473,High,No,Medium,College
+S0228,Student_228,19,Male,Sophomore,90,57,98,93,85.84,96.87,Medium,9,Clubs,Yes,37583,Low,Yes,High,Undecided
+S0229,Student_229,16,Non-Binary,Senior,89,86,71,46,87.23,87.86,Medium,23,None,No,27933,Medium,Yes,High,College
+S0230,Student_230,15,Non-Binary,Freshman,62,44,60,69,88.9,77.16,Low,15,Clubs,No,83923,High,No,High,Gap Year
+S0231,Student_231,22,Male,Freshman,53,78,78,92,87.88,83.52,Low,23,Arts,Yes,60944,High,Yes,High,College
+S0232,Student_232,25,Female,Junior,72,95,96,91,86.47,63.99,High,18,Arts,Yes,65747,High,No,Low,Gap Year
+S0233,Student_233,17,Male,Junior,58,95,77,96,77.05,95.45,High,24,Sports,No,90804,High,No,High,Gap Year
+S0234,Student_234,22,Male,Sophomore,48,81,67,44,77.3,91.12,Medium,24,None,No,33583,Low,No,Medium,Job
+S0235,Student_235,20,Non-Binary,Sophomore,46,59,83,45,99.09,82.03,High,29,Sports,No,31603,High,Yes,Medium,Gap Year
+S0236,Student_236,17,Female,Junior,86,80,40,56,91.43,81.79,Medium,16,Sports,No,40892,Low,No,Low,Job
+S0237,Student_237,22,Male,Freshman,100,45,90,70,99.62,82.94,High,24,Arts,Yes,75272,Medium,No,High,College
+S0238,Student_238,25,Non-Binary,Senior,91,91,71,41,87.17,89.95,Low,38,Arts,Yes,91449,Medium,No,Low,Undecided
+S0239,Student_239,18,Female,Junior,46,44,46,54,89.41,93.8,Medium,9,None,Yes,82642,High,No,Medium,Gap Year
+S0240,Student_240,20,Male,Senior,44,59,100,57,99.9,73.72,High,33,Arts,Yes,25702,Low,No,High,Job
+S0241,Student_241,24,Female,Senior,50,44,50,76,95.31,78.05,High,40,None,No,46673,Medium,Yes,High,Job
+S0242,Student_242,24,Non-Binary,Senior,88,56,57,78,75.29,93.64,Medium,25,None,No,82455,Low,Yes,Medium,Gap Year
+S0243,Student_243,18,Male,Senior,86,91,59,63,92.15,65.66,High,19,Clubs,Yes,45574,Medium,No,Medium,Gap Year
+S0244,Student_244,18,Non-Binary,Junior,93,44,61,99,76.38,91.09,Medium,25,Clubs,Yes,47367,Medium,No,High,Gap Year
+S0245,Student_245,19,Female,Freshman,94,60,43,41,90.16,94.57,Medium,20,None,No,34502,Medium,Yes,Medium,Undecided
+S0246,Student_246,16,Non-Binary,Junior,51,42,67,72,97.78,89.86,Low,28,None,Yes,69723,Low,No,Low,College
+S0247,Student_247,21,Non-Binary,Freshman,82,91,55,57,92.99,80.9,Medium,12,Sports,Yes,71556,Medium,No,Medium,Gap Year
+S0248,Student_248,19,Female,Junior,95,69,80,79,75.09,85.79,Low,9,Clubs,Yes,97030,Medium,Yes,Low,Job
+S0249,Student_249,20,Female,Senior,87,81,83,86,95.12,93.22,Low,39,Clubs,No,39232,Medium,No,High,College
+S0250,Student_250,22,Male,Freshman,94,59,98,45,77.61,71.37,Medium,15,Sports,No,21947,Medium,No,High,Undecided
+S0251,Student_251,16,Male,Freshman,61,44,71,80,90.19,71.75,Medium,22,Arts,No,23529,Medium,Yes,Low,Undecided
+S0252,Student_252,17,Female,Freshman,44,76,64,59,92.17,88.39,Low,21,Arts,No,99498,Medium,Yes,Low,Gap Year
+S0253,Student_253,16,Non-Binary,Freshman,74,97,95,54,77.46,96.07,Low,38,Sports,No,21744,Low,No,High,Gap Year
+S0254,Student_254,24,Non-Binary,Sophomore,98,72,83,62,88.4,93.4,Medium,40,Arts,No,47765,High,Yes,Low,Job
+S0255,Student_255,21,Female,Freshman,47,43,85,67,87.59,64.27,Medium,12,None,No,27579,Low,Yes,Low,Gap Year
+S0256,Student_256,16,Male,Senior,71,88,73,88,78.23,84.38,Medium,13,None,No,34948,Medium,No,Low,Job
+S0257,Student_257,25,Male,Sophomore,59,72,54,79,84.91,69.32,High,31,Clubs,No,32175,Medium,Yes,Low,College
+S0258,Student_258,18,Non-Binary,Freshman,48,50,51,72,85.24,88.65,High,37,None,No,28199,Medium,Yes,Low,Gap Year
+S0259,Student_259,25,Female,Senior,52,81,47,61,95.82,72.4,Medium,14,Arts,Yes,93915,High,No,High,College
+S0260,Student_260,23,Male,Freshman,69,60,82,57,88.72,79.77,Low,35,Sports,Yes,22863,High,No,Low,Gap Year
+S0261,Student_261,15,Male,Senior,56,77,77,56,82.88,86.6,Medium,5,Sports,No,43186,High,Yes,Medium,Job
+S0262,Student_262,22,Non-Binary,Sophomore,44,57,40,53,97.64,63.8,High,34,Arts,Yes,88861,High,No,Medium,Job
+S0263,Student_263,19,Female,Junior,40,59,43,97,78.91,78.6,High,11,Clubs,Yes,86766,Medium,No,High,College
+S0264,Student_264,16,Female,Senior,96,68,84,56,77.84,91.38,High,38,Sports,Yes,49325,Medium,No,Medium,College
+S0265,Student_265,22,Female,Freshman,97,61,97,54,77.88,67.8,Low,19,Clubs,No,82785,Medium,Yes,Low,Gap Year
+S0266,Student_266,16,Male,Senior,86,100,82,46,81.69,90.58,Medium,33,Arts,No,98412,Medium,Yes,Low,Job
+S0267,Student_267,17,Female,Sophomore,85,76,52,50,89.04,87.39,Low,10,Clubs,No,77086,Low,Yes,High,Gap Year
+S0268,Student_268,24,Female,Junior,78,56,44,62,88.69,89.49,Medium,20,Sports,No,27808,Low,No,High,Undecided
+S0269,Student_269,24,Male,Senior,41,42,73,99,79.7,99.73,Low,15,None,Yes,55274,Low,Yes,Medium,College
+S0270,Student_270,23,Non-Binary,Senior,72,65,97,72,76.18,94.95,Medium,21,None,Yes,72745,Low,Yes,High,Job
+S0271,Student_271,19,Non-Binary,Sophomore,56,44,65,77,96.03,65.51,Medium,30,Clubs,No,83447,High,No,High,Gap Year
+S0272,Student_272,18,Female,Freshman,89,65,96,50,88.72,76.7,High,8,Arts,No,24305,Low,Yes,High,College
+S0273,Student_273,17,Male,Sophomore,60,61,74,92,77.53,71.08,Low,36,Sports,No,48607,Low,Yes,High,Gap Year
+S0274,Student_274,19,Female,Freshman,77,92,74,56,78.73,63.04,Medium,10,Clubs,No,58504,High,Yes,Low,Gap Year
+S0275,Student_275,22,Non-Binary,Senior,94,89,76,41,96.9,67.8,High,38,Arts,Yes,78466,Medium,No,Low,Undecided
+S0276,Student_276,23,Male,Junior,56,85,44,82,90.88,62.61,Low,28,Clubs,No,54923,Low,Yes,High,College
+S0277,Student_277,22,Male,Sophomore,91,97,96,50,82.16,85.58,Medium,29,Sports,Yes,35366,Medium,Yes,Low,College
+S0278,Student_278,21,Non-Binary,Freshman,73,70,85,62,91.43,81.84,Medium,24,Sports,No,22193,High,No,High,Job
+S0279,Student_279,24,Non-Binary,Junior,89,57,82,68,92.33,67.83,Medium,31,Sports,No,29744,Medium,No,Medium,Undecided
+S0280,Student_280,24,Non-Binary,Senior,63,79,77,65,76.71,78.65,Low,7,Arts,No,86939,Medium,No,High,College
+S0281,Student_281,21,Male,Freshman,48,50,91,84,83.92,73.51,High,18,Sports,No,92905,High,Yes,Medium,College
+S0282,Student_282,23,Female,Junior,69,41,57,88,75.57,75.56,Low,7,Clubs,No,83314,Medium,Yes,Medium,Undecided
+S0283,Student_283,19,Female,Sophomore,88,73,82,61,83.07,69.19,Low,27,Sports,Yes,67662,Low,Yes,Low,Undecided
+S0284,Student_284,24,Non-Binary,Senior,95,95,79,100,95.34,92.87,Medium,28,Clubs,No,97650,Medium,Yes,Medium,Job
+S0285,Student_285,25,Female,Sophomore,66,57,86,93,75.54,69.98,Medium,27,None,No,62287,Medium,Yes,Medium,Gap Year
+S0286,Student_286,21,Male,Junior,51,67,47,53,99.38,71.86,Low,18,Sports,No,95072,High,Yes,Medium,Job
+S0287,Student_287,17,Non-Binary,Freshman,76,47,79,74,80.62,85.14,High,7,Clubs,No,54966,Low,Yes,High,Job
+S0288,Student_288,22,Male,Junior,65,56,69,76,93.9,83.6,High,25,Clubs,No,61960,Low,No,Low,Gap Year
+S0289,Student_289,18,Male,Freshman,91,70,53,46,86.79,73.29,Low,36,None,No,78003,High,No,Low,College
+S0290,Student_290,16,Non-Binary,Junior,46,63,63,65,84.06,98.66,High,9,Arts,Yes,96365,Medium,Yes,Low,College
+S0291,Student_291,25,Male,Freshman,77,54,46,40,85.48,91.46,Low,19,Arts,Yes,56065,Medium,No,Low,College
+S0292,Student_292,25,Non-Binary,Senior,94,81,53,63,96.03,82.44,High,28,Arts,No,98331,Medium,No,Medium,Undecided
+S0293,Student_293,23,Non-Binary,Junior,79,41,98,62,92.0,68.36,Medium,40,None,Yes,79393,Low,No,High,College
+S0294,Student_294,24,Female,Senior,95,54,43,81,78.43,73.1,Medium,28,Clubs,Yes,25777,High,No,Low,College
+S0295,Student_295,17,Male,Junior,88,44,99,99,88.88,97.19,Medium,9,Clubs,No,87475,High,No,Low,Gap Year
+S0296,Student_296,18,Non-Binary,Freshman,75,88,76,40,76.4,97.67,Low,28,Arts,Yes,58761,High,No,High,Job
+S0297,Student_297,19,Non-Binary,Sophomore,94,48,72,87,75.06,75.29,Low,26,Arts,No,46747,Medium,Yes,High,Gap Year
+S0298,Student_298,21,Male,Freshman,64,45,78,99,75.29,83.63,Low,14,Sports,Yes,87284,Low,Yes,Medium,Job
+S0299,Student_299,25,Male,Freshman,54,82,53,70,83.28,93.53,Medium,33,Sports,No,86515,Low,Yes,Low,Gap Year
+S0300,Student_300,19,Non-Binary,Junior,86,61,54,72,75.34,95.25,Medium,40,None,No,71634,High,Yes,High,Undecided
+S0301,Student_301,15,Female,Sophomore,80,69,46,72,99.36,85.87,Medium,8,Clubs,No,91214,Low,No,Low,Gap Year
+S0302,Student_302,18,Female,Freshman,89,43,80,95,94.09,97.46,High,32,Sports,Yes,77541,Medium,No,High,Gap Year
+S0303,Student_303,16,Female,Freshman,84,40,86,43,81.27,69.97,Low,17,Sports,Yes,35398,Medium,Yes,Medium,Undecided
+S0304,Student_304,24,Male,Freshman,71,72,52,64,78.22,73.69,High,39,Clubs,No,82175,Low,No,Medium,Job
+S0305,Student_305,18,Female,Junior,47,58,96,40,96.08,78.38,High,11,Arts,No,46173,High,No,Medium,Undecided
+S0306,Student_306,19,Male,Senior,87,64,61,64,78.34,68.69,High,39,Clubs,No,31856,Medium,No,High,Undecided
+S0307,Student_307,22,Female,Freshman,64,90,57,53,94.7,89.31,High,15,None,No,42495,High,Yes,High,College
+S0308,Student_308,21,Female,Junior,55,92,44,80,86.9,76.32,Medium,31,Clubs,Yes,71872,Low,No,High,Gap Year
+S0309,Student_309,22,Male,Junior,63,75,81,60,77.27,85.69,Medium,7,Sports,No,92491,Low,Yes,Medium,Job
+S0310,Student_310,17,Female,Freshman,98,100,82,83,90.32,64.63,Low,38,Arts,No,37195,Medium,No,Low,Gap Year
+S0311,Student_311,20,Male,Junior,80,71,49,40,83.21,60.89,Low,33,Arts,Yes,90494,Low,No,Low,Gap Year
+S0312,Student_312,17,Non-Binary,Senior,86,52,83,84,88.93,66.25,Low,11,Arts,Yes,96891,Low,No,Low,Gap Year
+S0313,Student_313,15,Male,Senior,66,76,85,68,99.08,95.83,Medium,22,Clubs,Yes,53583,Low,Yes,Low,Job
+S0314,Student_314,15,Female,Freshman,92,67,88,67,92.81,63.52,Medium,20,Clubs,No,91987,Medium,No,High,Job
+S0315,Student_315,19,Male,Junior,68,95,55,71,92.08,70.04,Medium,38,None,No,22032,High,Yes,High,College
+S0316,Student_316,20,Female,Sophomore,86,59,85,67,93.68,81.09,Medium,9,Sports,Yes,51774,Medium,Yes,High,Job
+S0317,Student_317,18,Male,Freshman,65,85,57,79,92.64,77.7,Low,5,Clubs,Yes,95704,Low,Yes,Medium,College
+S0318,Student_318,15,Female,Freshman,85,89,51,98,91.03,98.07,Medium,17,None,No,96674,High,No,Medium,Job
+S0319,Student_319,23,Female,Junior,97,60,78,66,95.53,78.03,High,25,None,No,54344,Low,No,High,Undecided
+S0320,Student_320,18,Female,Senior,97,96,87,99,80.0,71.74,High,40,None,Yes,38187,Low,Yes,Medium,Job
+S0321,Student_321,24,Non-Binary,Sophomore,87,74,99,82,96.1,81.88,High,5,Sports,Yes,84294,Medium,Yes,High,Job
+S0322,Student_322,24,Non-Binary,Sophomore,81,63,61,70,80.27,95.45,Medium,25,Arts,Yes,47870,High,Yes,High,Gap Year
+S0323,Student_323,17,Male,Senior,74,46,95,80,85.65,74.48,Medium,33,Clubs,No,92618,Medium,Yes,High,Gap Year
+S0324,Student_324,18,Male,Junior,95,95,96,51,77.37,90.56,Medium,10,None,Yes,47717,Medium,Yes,Low,Undecided
+S0325,Student_325,22,Male,Junior,56,96,43,65,85.69,61.61,Medium,9,Sports,Yes,88534,High,Yes,Low,Job
+S0326,Student_326,22,Female,Junior,54,80,84,53,88.81,69.81,Medium,24,None,Yes,63179,High,No,Low,Job
+S0327,Student_327,22,Non-Binary,Sophomore,80,73,60,87,79.0,74.46,Low,33,Clubs,No,40559,Medium,No,Medium,Undecided
+S0328,Student_328,21,Non-Binary,Junior,50,73,75,49,99.99,60.9,Low,13,Sports,No,95267,Medium,Yes,High,Job
+S0329,Student_329,23,Non-Binary,Senior,82,47,86,45,97.47,76.36,Medium,9,Clubs,Yes,90151,High,Yes,Medium,Job
+S0330,Student_330,24,Male,Freshman,74,97,62,73,83.56,83.72,Low,8,Arts,No,31760,High,Yes,Medium,Gap Year
+S0331,Student_331,19,Non-Binary,Senior,97,92,92,42,90.26,70.76,Medium,17,Clubs,Yes,87329,Medium,No,Low,Gap Year
+S0332,Student_332,21,Female,Junior,76,55,88,62,94.28,78.77,Medium,26,Sports,No,41041,Low,Yes,Medium,Job
+S0333,Student_333,25,Male,Senior,89,94,65,66,90.44,66.66,Medium,10,Sports,No,89991,Medium,Yes,Low,Gap Year
+S0334,Student_334,21,Female,Junior,46,56,79,53,87.94,71.78,Medium,28,Clubs,No,91208,Low,No,High,College
+S0335,Student_335,25,Non-Binary,Senior,75,73,63,93,95.71,92.97,Low,9,Arts,Yes,67967,Low,Yes,High,Gap Year
+S0336,Student_336,24,Male,Senior,70,61,75,46,89.17,63.27,Low,6,Arts,No,73713,Medium,No,Low,College
+S0337,Student_337,24,Male,Freshman,68,56,92,88,76.15,74.39,Low,12,None,Yes,50252,Medium,No,High,Undecided
+S0338,Student_338,19,Male,Freshman,61,55,50,57,86.28,79.05,High,30,None,Yes,94297,Medium,Yes,Low,Gap Year
+S0339,Student_339,17,Female,Freshman,47,61,54,75,88.32,80.71,Low,27,Arts,Yes,43967,High,No,High,Gap Year
+S0340,Student_340,24,Male,Senior,76,50,45,76,94.44,82.11,Medium,19,Clubs,No,78736,High,No,Medium,Gap Year
+S0341,Student_341,18,Female,Senior,63,48,84,72,94.86,61.0,Medium,10,None,No,54779,Low,Yes,High,Undecided
+S0342,Student_342,17,Female,Sophomore,44,44,86,53,95.29,71.78,Medium,9,Sports,Yes,89933,Medium,No,Low,College
+S0343,Student_343,23,Non-Binary,Sophomore,96,99,96,70,88.52,81.24,Low,21,Arts,No,67698,Low,Yes,Medium,Undecided
+S0344,Student_344,16,Male,Freshman,82,57,96,77,89.69,95.72,Medium,37,Clubs,Yes,57983,Medium,Yes,Low,Job
+S0345,Student_345,20,Male,Freshman,83,41,64,67,76.02,71.27,Medium,9,None,Yes,22832,Low,Yes,High,Gap Year
+S0346,Student_346,18,Non-Binary,Sophomore,65,92,81,94,95.39,83.49,Low,33,Arts,No,22972,Medium,No,Low,Gap Year
+S0347,Student_347,18,Male,Freshman,76,65,64,63,90.34,61.75,High,30,Clubs,Yes,28613,Medium,Yes,Medium,Undecided
+S0348,Student_348,20,Female,Junior,50,57,58,71,92.71,63.09,Low,20,None,No,87228,High,No,Medium,Gap Year
+S0349,Student_349,23,Male,Freshman,45,67,41,82,97.16,81.82,Medium,36,Arts,No,59040,Low,Yes,Medium,Undecided
+S0350,Student_350,18,Female,Senior,55,96,91,90,85.66,89.89,Medium,9,Sports,Yes,46168,Medium,No,Medium,Job
+S0351,Student_351,25,Female,Sophomore,56,96,76,44,95.31,98.68,Medium,20,Arts,Yes,77741,Low,Yes,Low,Job
+S0352,Student_352,24,Non-Binary,Junior,65,72,59,74,76.35,77.57,High,25,Clubs,No,84901,Medium,No,Medium,Job
+S0353,Student_353,15,Non-Binary,Senior,99,80,71,58,84.63,62.65,High,17,Clubs,No,35113,Low,No,Low,College
+S0354,Student_354,18,Non-Binary,Junior,93,74,80,96,95.8,87.93,High,7,Arts,No,86631,High,Yes,High,Job
+S0355,Student_355,18,Female,Senior,46,56,68,82,79.3,96.37,Low,20,Sports,Yes,60274,Low,Yes,Medium,Gap Year
+S0356,Student_356,16,Male,Junior,57,53,81,50,87.95,68.94,Low,38,Clubs,Yes,22705,Low,Yes,Medium,Gap Year
+S0357,Student_357,22,Male,Senior,91,59,65,51,91.34,71.98,Low,12,Clubs,No,36956,High,Yes,Low,College
+S0358,Student_358,24,Female,Senior,86,89,62,59,98.24,90.19,Medium,16,None,No,81270,High,Yes,Medium,College
+S0359,Student_359,22,Non-Binary,Freshman,83,48,45,100,83.63,94.51,Medium,18,None,No,86038,High,Yes,Low,Gap Year
+S0360,Student_360,25,Female,Sophomore,40,94,45,42,83.54,71.4,Medium,17,Sports,Yes,74386,High,Yes,Medium,College
+S0361,Student_361,17,Female,Freshman,59,63,67,60,95.33,82.93,High,34,Clubs,No,87347,Medium,Yes,Low,Gap Year
+S0362,Student_362,23,Non-Binary,Freshman,78,75,63,66,89.41,95.13,Low,39,Clubs,Yes,67278,High,No,High,College
+S0363,Student_363,24,Male,Senior,94,65,64,59,94.35,83.82,Medium,12,Clubs,Yes,60310,High,Yes,Low,Job
+S0364,Student_364,21,Non-Binary,Freshman,82,93,42,100,88.49,97.07,Medium,27,None,Yes,69606,High,Yes,Medium,Job
+S0365,Student_365,22,Male,Freshman,45,84,94,52,89.69,97.61,Medium,12,Arts,Yes,62049,Medium,Yes,High,College
+S0366,Student_366,18,Male,Sophomore,90,64,48,84,80.73,64.63,High,5,None,Yes,85560,Medium,Yes,Medium,Gap Year
+S0367,Student_367,21,Non-Binary,Junior,45,70,71,54,93.42,70.55,Medium,26,Clubs,Yes,76177,High,Yes,Medium,College
+S0368,Student_368,20,Non-Binary,Freshman,93,88,83,98,87.44,60.6,Low,33,None,No,53925,Low,Yes,High,College
+S0369,Student_369,20,Male,Freshman,67,93,47,94,90.05,85.91,Medium,5,None,No,83109,Low,No,Medium,Undecided
+S0370,Student_370,19,Female,Senior,66,85,46,60,76.42,91.51,Low,9,Arts,Yes,84116,Medium,Yes,Medium,Gap Year
+S0371,Student_371,22,Female,Senior,44,79,64,59,98.07,70.74,High,25,Clubs,Yes,41884,Low,No,Medium,Undecided
+S0372,Student_372,24,Non-Binary,Junior,80,46,99,64,97.58,95.03,High,7,Arts,Yes,21510,Low,Yes,Low,Undecided
+S0373,Student_373,19,Female,Freshman,81,77,57,89,77.85,77.18,Low,5,Sports,Yes,69296,Low,No,Medium,College
+S0374,Student_374,20,Female,Sophomore,80,84,97,63,92.64,68.27,Low,5,Arts,Yes,88693,Low,No,Medium,Job
+S0375,Student_375,18,Male,Freshman,78,68,51,64,75.41,73.07,Medium,26,Sports,No,42261,Medium,Yes,Low,Undecided
+S0376,Student_376,16,Female,Freshman,93,77,82,40,77.59,96.5,Low,16,Arts,No,37242,High,No,High,Gap Year
+S0377,Student_377,25,Non-Binary,Sophomore,73,52,84,57,88.21,74.3,Low,23,Sports,No,86665,High,Yes,Medium,Undecided
+S0378,Student_378,23,Non-Binary,Senior,96,42,97,74,85.61,71.1,High,35,Arts,Yes,50119,Low,Yes,Medium,College
+S0379,Student_379,25,Female,Sophomore,97,53,50,94,83.77,95.76,High,40,None,No,77901,Medium,No,Medium,College
+S0380,Student_380,15,Female,Freshman,70,84,73,49,81.88,78.02,Medium,10,Arts,No,26418,High,No,High,Gap Year
+S0381,Student_381,16,Female,Freshman,40,59,86,70,91.0,88.95,High,26,Clubs,Yes,31333,Low,Yes,High,Undecided
+S0382,Student_382,23,Male,Freshman,62,89,97,98,80.66,90.3,Medium,35,Arts,No,82998,Low,Yes,Low,College
+S0383,Student_383,19,Female,Sophomore,75,76,49,93,78.32,84.33,Medium,15,Clubs,Yes,54431,High,No,Low,Job
+S0384,Student_384,15,Female,Junior,60,62,91,44,94.02,62.32,Medium,22,Arts,Yes,45574,Low,Yes,High,Job
+S0385,Student_385,16,Female,Sophomore,54,75,95,93,90.08,72.15,Medium,24,Clubs,Yes,31288,Low,No,High,Job
+S0386,Student_386,21,Non-Binary,Freshman,47,99,84,87,90.78,99.67,Medium,39,Arts,Yes,57141,High,Yes,Medium,Undecided
+S0387,Student_387,22,Non-Binary,Senior,53,54,86,74,85.76,99.13,High,40,Arts,No,98580,High,No,Medium,Gap Year
+S0388,Student_388,17,Female,Sophomore,92,67,52,67,77.21,62.22,High,18,Clubs,Yes,55742,Low,Yes,Medium,Gap Year
+S0389,Student_389,20,Non-Binary,Sophomore,68,46,86,73,84.83,85.13,High,38,Sports,No,81812,Low,Yes,High,Gap Year
+S0390,Student_390,21,Female,Senior,98,44,87,58,81.66,87.15,Low,27,Clubs,Yes,95576,Medium,Yes,Low,College
+S0391,Student_391,22,Male,Senior,86,60,93,76,86.81,93.48,Low,28,Arts,Yes,67142,Medium,No,Low,College
+S0392,Student_392,19,Male,Junior,81,51,44,49,75.64,92.79,Low,23,Arts,Yes,66553,High,Yes,Low,Gap Year
+S0393,Student_393,19,Male,Sophomore,71,45,79,59,98.7,83.19,High,6,Arts,No,26045,Low,Yes,Low,Undecided
+S0394,Student_394,25,Female,Freshman,51,48,76,99,93.56,88.13,High,33,Arts,No,74105,High,Yes,Low,College
+S0395,Student_395,19,Non-Binary,Junior,47,72,58,40,79.48,98.53,High,27,None,Yes,33839,Medium,No,Low,Gap Year
+S0396,Student_396,17,Female,Sophomore,85,63,56,52,86.05,84.02,Low,14,Arts,No,75450,Medium,No,Medium,Gap Year
+S0397,Student_397,25,Male,Junior,42,73,63,44,87.89,97.31,Low,39,Sports,No,84880,High,Yes,Low,Job
+S0398,Student_398,18,Male,Freshman,40,90,46,89,83.17,80.53,Medium,15,None,Yes,27489,Medium,No,Low,College
+S0399,Student_399,16,Female,Junior,42,80,69,50,75.8,75.34,High,29,None,No,44299,Medium,No,High,Job
+S0400,Student_400,16,Female,Sophomore,86,75,56,40,94.03,71.35,High,25,None,No,85874,Medium,Yes,Medium,Gap Year
+S0401,Student_401,18,Male,Sophomore,98,64,100,81,96.84,72.54,High,22,None,No,92193,High,Yes,Medium,College
+S0402,Student_402,20,Male,Junior,87,80,89,86,77.88,99.98,Low,24,None,Yes,80680,Medium,Yes,High,Job
+S0403,Student_403,25,Male,Freshman,89,89,46,89,85.96,74.61,Medium,19,Clubs,Yes,83871,High,Yes,Low,College
+S0404,Student_404,15,Male,Junior,66,100,70,49,97.89,61.66,High,26,Sports,Yes,63108,Medium,No,High,Undecided
+S0405,Student_405,17,Male,Sophomore,44,49,59,79,78.7,73.04,Low,36,None,Yes,75275,Medium,No,Low,Gap Year
+S0406,Student_406,24,Male,Senior,81,50,60,66,85.9,99.55,Medium,22,Arts,Yes,76421,Medium,Yes,High,College
+S0407,Student_407,19,Female,Sophomore,57,58,59,42,82.78,82.16,Low,30,Sports,No,55425,Medium,Yes,Low,Job
+S0408,Student_408,23,Male,Freshman,97,87,55,71,93.38,75.02,High,16,Clubs,Yes,21402,High,Yes,High,College
+S0409,Student_409,25,Non-Binary,Freshman,45,42,93,99,93.75,72.7,Low,15,None,No,52736,Low,Yes,High,College
+S0410,Student_410,19,Male,Junior,81,69,74,97,81.15,75.89,Low,35,None,Yes,51989,High,Yes,Medium,Undecided
+S0411,Student_411,22,Male,Freshman,48,86,97,84,78.41,69.01,Low,36,Clubs,No,51369,Low,No,Medium,Job
+S0412,Student_412,22,Non-Binary,Freshman,72,79,64,100,91.06,79.37,Low,35,None,No,81989,Low,No,Low,College
+S0413,Student_413,21,Male,Sophomore,73,73,98,59,98.94,78.71,Medium,21,Clubs,Yes,20023,High,No,Low,Gap Year
+S0414,Student_414,25,Non-Binary,Sophomore,67,80,75,89,76.95,79.62,High,22,None,No,33007,High,Yes,Low,College
+S0415,Student_415,20,Male,Sophomore,92,70,49,81,84.3,91.08,High,33,None,No,42363,High,No,Low,College
+S0416,Student_416,20,Female,Sophomore,77,78,74,56,92.79,98.93,Low,38,Arts,Yes,87025,Low,Yes,High,College
+S0417,Student_417,18,Female,Freshman,45,85,56,83,80.76,87.01,Low,39,None,Yes,50225,Medium,Yes,Low,Undecided
+S0418,Student_418,15,Non-Binary,Junior,59,47,40,53,77.69,83.59,Low,16,Arts,Yes,23742,Low,Yes,Medium,Gap Year
+S0419,Student_419,24,Female,Freshman,86,60,61,58,97.46,89.05,Medium,23,Arts,No,60367,Low,No,Low,College
+S0420,Student_420,22,Non-Binary,Freshman,54,60,41,73,80.61,70.77,High,6,None,Yes,32421,Low,No,High,College
+S0421,Student_421,19,Male,Freshman,89,73,64,84,76.82,99.81,Medium,15,Clubs,No,83509,Medium,Yes,High,Gap Year
+S0422,Student_422,17,Non-Binary,Junior,50,100,42,92,82.58,91.9,Medium,21,Clubs,Yes,70147,High,No,High,College
+S0423,Student_423,24,Female,Junior,79,90,91,57,85.83,97.15,High,19,Clubs,Yes,42618,High,No,Low,Gap Year
+S0424,Student_424,17,Female,Freshman,56,77,50,70,98.31,86.03,Medium,26,Arts,No,68630,Low,No,Medium,College
+S0425,Student_425,21,Male,Sophomore,60,93,73,72,97.67,64.05,Medium,6,Sports,No,27231,Medium,No,Medium,Undecided
+S0426,Student_426,16,Non-Binary,Freshman,93,46,44,87,85.74,76.15,High,12,None,No,83016,High,Yes,High,Job
+S0427,Student_427,15,Non-Binary,Sophomore,85,56,45,40,91.03,91.97,Medium,12,Clubs,No,62447,Medium,No,Medium,Gap Year
+S0428,Student_428,17,Female,Junior,86,89,84,65,97.41,60.73,Medium,32,Sports,No,68093,Low,Yes,Low,Undecided
+S0429,Student_429,21,Female,Junior,83,54,97,78,85.27,82.66,Low,35,Arts,Yes,20568,High,Yes,Low,Job
+S0430,Student_430,25,Male,Sophomore,58,71,67,67,95.91,91.6,Low,13,None,Yes,35655,Medium,Yes,Medium,Job
+S0431,Student_431,21,Male,Senior,76,99,84,78,83.7,98.03,Low,26,None,No,58559,Low,No,High,Undecided
+S0432,Student_432,23,Female,Junior,73,98,71,57,86.89,60.12,Medium,7,None,Yes,87771,High,No,High,Gap Year
+S0433,Student_433,19,Female,Junior,83,54,90,91,83.55,74.92,Medium,17,Arts,Yes,67596,High,Yes,Low,Undecided
+S0434,Student_434,19,Male,Sophomore,42,83,78,70,88.07,68.77,Medium,5,None,Yes,65988,Medium,No,Low,Gap Year
+S0435,Student_435,17,Female,Junior,96,55,89,76,80.91,69.48,Low,34,Sports,No,71056,Medium,No,Medium,Gap Year
+S0436,Student_436,25,Non-Binary,Sophomore,55,83,78,79,96.34,94.69,High,14,Arts,Yes,58622,Medium,No,High,Undecided
+S0437,Student_437,20,Non-Binary,Freshman,72,82,69,65,93.22,92.61,Medium,25,Arts,Yes,80861,Medium,No,High,Job
+S0438,Student_438,21,Female,Senior,75,49,77,73,96.38,77.78,Medium,36,None,Yes,22420,Low,Yes,Low,Gap Year
+S0439,Student_439,20,Male,Senior,55,77,91,69,86.97,82.01,High,11,Arts,No,21037,Low,No,Medium,Gap Year
+S0440,Student_440,20,Female,Senior,94,89,94,80,98.0,70.3,Medium,9,None,No,27952,High,No,Low,Job
+S0441,Student_441,18,Non-Binary,Senior,91,97,49,59,75.39,62.72,High,29,None,No,35652,Medium,No,High,Undecided
+S0442,Student_442,20,Non-Binary,Sophomore,60,57,42,84,83.94,93.38,High,5,Arts,No,41344,Low,No,Medium,Gap Year
+S0443,Student_443,17,Female,Senior,60,43,86,97,77.74,81.26,High,34,Sports,No,44125,Low,Yes,Low,Job
+S0444,Student_444,25,Female,Sophomore,66,47,79,91,85.34,87.02,High,14,Arts,Yes,69029,Low,No,Low,College
+S0445,Student_445,22,Non-Binary,Sophomore,46,54,53,74,85.87,97.72,Medium,25,Arts,No,32931,Low,No,High,Job
+S0446,Student_446,19,Male,Senior,48,99,65,88,77.29,60.6,Low,36,Arts,No,23747,Medium,Yes,High,Gap Year
+S0447,Student_447,15,Male,Freshman,60,44,82,59,78.59,69.41,Low,19,Clubs,Yes,98179,High,Yes,Medium,Undecided
+S0448,Student_448,15,Female,Sophomore,61,46,98,84,76.85,92.06,Low,14,None,No,59240,Medium,No,Low,College
+S0449,Student_449,22,Female,Sophomore,89,66,88,62,77.35,87.41,Low,26,Arts,No,65654,High,No,Medium,Job
+S0450,Student_450,25,Non-Binary,Sophomore,63,89,78,63,77.33,89.45,Low,20,Sports,Yes,81850,High,No,High,Gap Year
+S0451,Student_451,17,Non-Binary,Junior,98,63,84,47,87.55,72.56,High,25,Clubs,No,29729,Low,No,Medium,College
+S0452,Student_452,19,Female,Senior,95,52,53,80,83.05,72.78,Medium,29,None,Yes,58330,Low,No,High,Gap Year
+S0453,Student_453,17,Non-Binary,Senior,66,85,97,70,82.83,89.16,Medium,15,Arts,No,34979,Low,No,Low,College
+S0454,Student_454,15,Female,Junior,48,92,76,80,89.28,85.23,Medium,15,Arts,Yes,55839,High,Yes,Medium,Job
+S0455,Student_455,20,Male,Freshman,58,41,41,96,81.36,84.14,Low,25,None,No,61659,Low,Yes,High,Gap Year
+S0456,Student_456,21,Female,Junior,90,90,48,97,94.76,70.8,High,25,Sports,Yes,71407,Low,Yes,Medium,Job
+S0457,Student_457,17,Female,Senior,67,63,47,60,76.01,62.8,Low,38,Sports,Yes,95769,Medium,No,High,College
+S0458,Student_458,22,Non-Binary,Senior,44,62,100,67,87.45,95.09,Low,17,Arts,No,88613,Low,Yes,Medium,College
+S0459,Student_459,19,Female,Junior,58,86,84,47,90.48,85.11,Medium,36,Sports,Yes,59056,High,No,Low,College
+S0460,Student_460,16,Non-Binary,Sophomore,54,94,57,53,85.48,70.58,Low,38,Arts,Yes,76928,Medium,Yes,High,College
+S0461,Student_461,20,Female,Sophomore,63,45,76,77,86.05,77.37,Low,34,Arts,No,28104,Medium,Yes,Low,Job
+S0462,Student_462,19,Non-Binary,Junior,75,71,59,88,96.21,81.78,High,36,Arts,No,39848,Medium,No,Medium,Gap Year
+S0463,Student_463,16,Non-Binary,Junior,74,89,48,41,87.2,80.81,High,22,None,Yes,40618,Low,Yes,High,Undecided
+S0464,Student_464,21,Female,Sophomore,80,52,77,61,85.85,98.5,Low,29,None,No,42074,High,Yes,Low,College
+S0465,Student_465,23,Male,Freshman,61,58,40,59,79.09,70.83,Medium,40,Clubs,No,82784,Low,Yes,Low,College
+S0466,Student_466,24,Non-Binary,Sophomore,95,51,47,82,81.49,84.69,High,16,Clubs,No,64288,Low,Yes,High,Gap Year
+S0467,Student_467,16,Male,Freshman,68,97,80,77,75.09,74.12,Medium,14,Arts,No,27575,Low,No,Low,Job
+S0468,Student_468,22,Female,Junior,54,65,43,49,89.03,95.94,High,17,Clubs,No,43464,Medium,No,High,Undecided
+S0469,Student_469,20,Male,Freshman,63,66,57,43,87.16,93.93,Medium,12,Sports,No,35701,Low,Yes,Medium,Job
+S0470,Student_470,20,Female,Sophomore,63,76,79,41,95.06,86.41,High,34,None,No,48643,Medium,Yes,Medium,College
+S0471,Student_471,20,Male,Freshman,45,86,59,94,86.05,65.18,Medium,9,Sports,No,22738,Low,Yes,Low,College
+S0472,Student_472,25,Male,Freshman,49,64,93,90,91.67,74.36,Low,13,Arts,No,72095,Low,Yes,High,Job
+S0473,Student_473,21,Male,Senior,79,93,62,82,88.57,86.17,Low,33,Clubs,No,73054,Medium,No,High,Job
+S0474,Student_474,20,Non-Binary,Senior,80,76,72,41,94.8,92.09,High,32,Sports,No,98418,High,Yes,Medium,Gap Year
+S0475,Student_475,17,Female,Sophomore,97,40,42,81,79.4,71.39,Low,16,Arts,No,70415,Medium,Yes,Low,Job
+S0476,Student_476,17,Female,Senior,43,59,68,61,83.42,98.27,High,25,Sports,No,21338,Medium,Yes,Low,Undecided
+S0477,Student_477,21,Male,Junior,91,71,40,73,86.2,62.67,Low,23,Clubs,Yes,92873,Medium,No,Low,Gap Year
+S0478,Student_478,15,Female,Junior,51,54,80,89,75.88,71.25,Low,18,Arts,Yes,30357,Medium,No,High,College
+S0479,Student_479,17,Female,Junior,88,95,68,43,93.06,60.23,High,24,None,No,23599,Low,No,Medium,Gap Year
+S0480,Student_480,25,Male,Freshman,69,78,87,44,84.23,87.64,Low,14,None,No,28690,Low,No,Medium,College
+S0481,Student_481,18,Male,Junior,49,79,40,41,97.59,74.68,Medium,19,None,Yes,81908,Medium,Yes,High,Undecided
+S0482,Student_482,18,Male,Junior,55,91,58,68,81.65,83.88,Medium,11,None,Yes,56719,High,No,Low,Gap Year
+S0483,Student_483,22,Male,Junior,42,50,48,95,77.44,79.35,Medium,14,None,Yes,69534,Medium,No,Low,Job
+S0484,Student_484,25,Non-Binary,Freshman,73,52,53,93,80.75,79.51,Medium,12,None,Yes,70006,Medium,No,Low,Undecided
+S0485,Student_485,22,Female,Sophomore,63,52,95,42,92.46,87.99,Low,14,Clubs,Yes,21085,Low,Yes,High,Job
+S0486,Student_486,24,Male,Sophomore,50,50,90,99,91.16,61.17,Low,32,Sports,No,46796,Low,No,Low,Undecided
+S0487,Student_487,23,Non-Binary,Freshman,87,41,60,56,79.69,75.5,Medium,17,Clubs,No,69540,High,Yes,High,Gap Year
+S0488,Student_488,15,Male,Freshman,59,45,59,95,88.32,71.6,Medium,13,Sports,Yes,84159,Low,No,Low,Job
+S0489,Student_489,17,Male,Freshman,82,85,71,78,78.43,80.81,Low,5,Arts,Yes,81217,High,Yes,High,College
+S0490,Student_490,22,Female,Senior,90,61,64,41,82.48,73.29,Low,30,Sports,No,58504,Low,No,High,College
+S0491,Student_491,21,Male,Freshman,64,62,77,70,79.56,61.97,Medium,20,Arts,No,62162,High,Yes,Medium,Undecided
+S0492,Student_492,18,Non-Binary,Freshman,45,73,49,76,94.13,62.57,High,19,Arts,No,78687,Low,No,Low,Job
+S0493,Student_493,21,Female,Senior,57,71,64,97,78.06,99.58,Medium,5,Sports,No,64551,High,No,Low,Gap Year
+S0494,Student_494,23,Male,Senior,96,89,96,79,85.7,63.4,High,25,Arts,No,45214,Low,Yes,High,Gap Year
+S0495,Student_495,24,Female,Junior,70,65,88,51,84.84,72.91,Low,16,Arts,Yes,57484,High,Yes,High,Gap Year
+S0496,Student_496,22,Female,Sophomore,76,46,61,86,98.58,79.52,Medium,27,Sports,No,61272,Medium,No,Low,Undecided
+S0497,Student_497,24,Male,Freshman,57,87,71,79,97.63,79.94,Low,26,Arts,No,84474,Medium,Yes,Medium,Job
+S0498,Student_498,25,Male,Junior,60,76,86,98,85.83,99.16,High,5,Sports,Yes,45270,Medium,Yes,High,Undecided
+S0499,Student_499,23,Male,Sophomore,99,78,56,93,95.49,86.97,Low,17,Arts,Yes,61404,High,Yes,High,College
+S0500,Student_500,18,Non-Binary,Junior,45,61,41,74,81.92,75.48,Medium,38,Sports,No,22460,Low,No,Low,Job
+S0501,Student_501,20,Female,Sophomore,59,59,49,52,88.17,60.83,Medium,37,None,Yes,75656,High,Yes,High,College
+S0502,Student_502,19,Male,Freshman,76,60,77,69,91.55,79.46,Medium,29,Clubs,Yes,48100,Low,Yes,Medium,Job
+S0503,Student_503,15,Male,Sophomore,99,69,58,52,90.5,81.28,Low,24,Clubs,No,70676,Medium,No,Low,Gap Year
+S0504,Student_504,18,Male,Freshman,54,94,56,63,99.62,63.88,Medium,13,None,Yes,25345,Low,Yes,Medium,Job
+S0505,Student_505,24,Male,Senior,88,47,53,75,93.32,62.29,High,17,None,Yes,36467,Medium,No,Low,Undecided
+S0506,Student_506,20,Male,Freshman,78,97,73,100,84.01,90.33,High,36,None,Yes,24915,Low,No,Low,Job
+S0507,Student_507,24,Female,Freshman,45,49,85,54,82.5,92.66,Medium,18,Clubs,No,64689,High,No,Medium,Gap Year
+S0508,Student_508,18,Female,Junior,68,97,48,62,92.98,88.54,Low,17,Sports,No,62692,High,No,Medium,Undecided
+S0509,Student_509,17,Female,Freshman,81,50,61,97,89.79,89.74,High,23,None,No,96919,Low,Yes,Medium,College
+S0510,Student_510,24,Non-Binary,Senior,62,47,95,73,97.1,68.87,Medium,10,Clubs,Yes,33983,Medium,Yes,Medium,Gap Year
+S0511,Student_511,25,Male,Senior,96,100,57,76,80.0,73.24,High,32,Sports,Yes,27073,High,No,Low,Undecided
+S0512,Student_512,21,Female,Sophomore,75,57,56,52,87.6,70.67,Low,26,Sports,No,30637,Low,Yes,Low,Gap Year
+S0513,Student_513,16,Non-Binary,Sophomore,94,77,71,98,78.08,62.28,High,15,Clubs,No,20950,Low,Yes,Low,Gap Year
+S0514,Student_514,22,Male,Freshman,87,45,67,88,88.17,83.25,Low,27,None,No,84709,Low,Yes,Low,Job
+S0515,Student_515,24,Male,Senior,62,78,46,53,83.75,68.84,Low,35,None,Yes,82986,Medium,Yes,Medium,Job
+S0516,Student_516,24,Male,Sophomore,83,77,70,85,88.2,89.49,Low,26,Sports,Yes,32655,Medium,No,High,Undecided
+S0517,Student_517,25,Non-Binary,Freshman,82,86,90,69,89.45,97.32,High,6,Arts,No,84328,High,No,Medium,Undecided
+S0518,Student_518,15,Female,Senior,48,81,43,53,89.62,73.1,Low,35,Clubs,No,51146,Medium,No,Low,Undecided
+S0519,Student_519,22,Female,Junior,82,74,69,58,91.28,73.97,Low,12,None,No,62972,Medium,Yes,Low,Undecided
+S0520,Student_520,18,Male,Freshman,67,59,84,55,92.45,80.89,Medium,13,Sports,No,94268,High,Yes,Low,College
+S0521,Student_521,18,Non-Binary,Senior,51,41,56,63,78.5,78.71,Medium,13,None,No,35684,Low,No,High,College
+S0522,Student_522,19,Male,Senior,59,87,69,46,77.68,88.53,Low,10,None,No,81544,Medium,Yes,Low,Undecided
+S0523,Student_523,25,Female,Senior,59,66,60,70,87.59,64.16,Low,33,Clubs,Yes,82787,High,Yes,Low,Gap Year
+S0524,Student_524,20,Female,Senior,56,88,41,73,98.87,70.35,Medium,15,Clubs,Yes,81342,Low,Yes,Low,Job
+S0525,Student_525,19,Male,Sophomore,70,57,69,80,87.22,97.4,Medium,17,None,No,85860,Medium,No,Medium,Undecided
+S0526,Student_526,20,Female,Sophomore,73,50,73,96,94.66,82.38,Medium,19,Sports,No,41175,Medium,No,High,Undecided
+S0527,Student_527,21,Non-Binary,Sophomore,80,88,50,86,89.65,95.76,Low,13,Clubs,Yes,58552,Medium,No,Low,Job
+S0528,Student_528,21,Female,Sophomore,91,47,92,88,91.39,92.66,Low,27,Arts,No,31214,High,Yes,High,Job
+S0529,Student_529,23,Female,Junior,79,44,89,84,80.45,93.01,Low,7,Arts,No,61582,Low,No,Low,Job
+S0530,Student_530,25,Non-Binary,Senior,56,96,52,60,86.64,99.27,Medium,25,None,No,71511,Medium,No,Medium,Gap Year
+S0531,Student_531,16,Female,Sophomore,74,49,70,85,89.98,65.23,High,18,None,Yes,64070,Low,Yes,High,College
+S0532,Student_532,16,Non-Binary,Sophomore,85,88,91,64,90.89,71.39,Low,32,Clubs,Yes,66985,Medium,Yes,High,Job
+S0533,Student_533,22,Non-Binary,Freshman,67,69,95,61,94.11,99.08,Medium,9,Clubs,Yes,42810,Low,No,High,Undecided
+S0534,Student_534,19,Non-Binary,Sophomore,44,83,56,94,80.9,98.88,Low,16,None,No,89110,Medium,No,Medium,Job
+S0535,Student_535,17,Male,Sophomore,88,90,97,97,92.08,71.29,Medium,33,None,Yes,65623,High,No,High,Job
+S0536,Student_536,25,Male,Senior,78,52,50,47,93.71,81.19,Low,24,Sports,Yes,39981,Medium,No,High,Job
+S0537,Student_537,19,Female,Senior,97,60,49,60,88.09,83.16,Medium,19,Arts,Yes,80254,Medium,No,Medium,Job
+S0538,Student_538,22,Non-Binary,Freshman,53,57,62,75,86.97,77.47,High,32,Sports,No,95709,Medium,Yes,Medium,Gap Year
+S0539,Student_539,18,Male,Sophomore,50,74,77,85,89.32,78.58,High,32,Clubs,Yes,80404,Medium,No,High,Job
+S0540,Student_540,25,Female,Senior,96,46,54,44,75.78,79.01,High,16,Clubs,Yes,97870,High,No,Medium,Undecided
+S0541,Student_541,20,Male,Senior,99,75,43,82,94.6,68.7,Low,18,Arts,No,92287,High,No,Low,College
+S0542,Student_542,23,Female,Freshman,90,57,83,86,84.13,61.77,Low,26,None,No,75879,Low,No,High,College
+S0543,Student_543,16,Non-Binary,Junior,69,71,40,72,88.37,99.92,High,10,Arts,Yes,77417,Medium,Yes,Medium,Gap Year
+S0544,Student_544,18,Non-Binary,Junior,93,69,61,94,82.99,82.08,Medium,11,None,Yes,23542,High,Yes,Medium,Undecided
+S0545,Student_545,18,Male,Junior,93,98,79,53,95.07,95.65,High,38,Clubs,Yes,84171,High,Yes,High,Undecided
+S0546,Student_546,16,Female,Junior,48,48,42,99,90.21,92.58,High,20,Arts,No,95325,Low,No,Medium,College
+S0547,Student_547,21,Female,Freshman,63,100,70,59,80.93,92.55,High,37,Sports,Yes,24855,High,Yes,High,College
+S0548,Student_548,19,Male,Junior,63,55,55,80,81.12,60.21,High,15,None,Yes,47431,Low,Yes,Low,Undecided
+S0549,Student_549,22,Non-Binary,Freshman,64,75,80,75,91.28,67.62,Medium,23,Arts,Yes,44733,Low,Yes,Low,College
+S0550,Student_550,19,Non-Binary,Senior,75,67,72,63,90.53,92.06,Low,29,Arts,No,62163,Low,Yes,Low,Gap Year
+S0551,Student_551,23,Female,Senior,87,40,99,97,77.12,68.82,Low,6,Arts,No,49583,High,Yes,Medium,Gap Year
+S0552,Student_552,25,Female,Senior,57,41,43,92,93.39,86.03,High,26,Arts,No,98645,Medium,No,High,Gap Year
+S0553,Student_553,18,Non-Binary,Freshman,61,96,43,70,85.74,91.33,Low,36,Sports,No,88033,High,Yes,Medium,Job
+S0554,Student_554,17,Male,Junior,65,61,86,77,87.58,98.01,High,13,None,Yes,51462,Low,No,Low,College
+S0555,Student_555,25,Female,Senior,56,98,44,84,75.99,73.42,High,23,Sports,No,64156,High,Yes,Low,College
+S0556,Student_556,15,Female,Freshman,64,88,90,44,93.3,62.95,Low,7,Arts,No,43238,Low,Yes,Low,Gap Year
+S0557,Student_557,17,Female,Sophomore,93,91,87,54,80.13,78.97,Medium,12,None,No,24312,High,Yes,Medium,Gap Year
+S0558,Student_558,20,Non-Binary,Freshman,66,47,49,84,80.08,83.23,Medium,15,Sports,No,42348,Medium,No,Low,Undecided
+S0559,Student_559,18,Male,Freshman,69,69,74,72,76.3,82.03,Medium,21,Arts,No,45377,High,Yes,High,College
+S0560,Student_560,17,Female,Sophomore,63,74,55,93,94.36,95.42,High,25,Sports,Yes,20229,High,No,Medium,Gap Year
+S0561,Student_561,20,Male,Freshman,62,70,48,58,93.27,81.88,Low,18,Arts,No,92544,Medium,Yes,High,Job
+S0562,Student_562,17,Male,Junior,40,48,71,46,83.1,81.55,Low,11,Sports,No,35423,High,Yes,Medium,Gap Year
+S0563,Student_563,24,Non-Binary,Junior,58,48,89,73,92.14,72.58,Medium,5,None,Yes,27315,High,No,Low,Job
+S0564,Student_564,16,Non-Binary,Sophomore,62,98,89,84,92.06,75.28,Medium,40,Arts,No,74791,High,No,Medium,Undecided
+S0565,Student_565,25,Female,Senior,45,99,90,46,99.24,86.39,Medium,12,None,No,38250,Low,No,High,Undecided
+S0566,Student_566,16,Female,Senior,79,68,51,93,96.16,85.19,Medium,10,Arts,No,46557,Low,No,Low,Job
+S0567,Student_567,16,Female,Freshman,59,62,88,52,84.84,60.63,Low,18,Arts,Yes,54395,Low,No,Low,College
+S0568,Student_568,16,Non-Binary,Freshman,46,42,44,47,80.78,83.77,High,15,Arts,Yes,71315,Low,Yes,High,College
+S0569,Student_569,24,Non-Binary,Junior,92,43,100,93,85.57,69.94,Medium,20,Sports,Yes,74425,Medium,Yes,Medium,Gap Year
+S0570,Student_570,21,Non-Binary,Sophomore,49,96,49,54,77.4,65.95,High,26,None,No,66789,Medium,No,Medium,College
+S0571,Student_571,18,Non-Binary,Freshman,71,80,90,76,91.01,65.1,Low,14,Sports,Yes,48656,Low,No,High,College
+S0572,Student_572,22,Male,Sophomore,53,40,79,54,85.61,61.13,Medium,18,None,No,44411,Low,Yes,Low,Job
+S0573,Student_573,21,Non-Binary,Sophomore,58,54,84,71,88.43,92.25,Low,21,Sports,No,23959,High,No,Low,Undecided
+S0574,Student_574,23,Male,Freshman,93,64,79,78,98.98,89.52,Medium,14,Sports,No,30479,High,No,Medium,Gap Year
+S0575,Student_575,17,Female,Senior,84,67,76,86,89.6,89.6,Medium,33,Sports,No,53039,High,Yes,High,Undecided
+S0576,Student_576,15,Non-Binary,Junior,56,76,92,99,97.69,83.34,Low,7,Sports,Yes,86914,High,Yes,Medium,Job
+S0577,Student_577,20,Male,Senior,94,64,63,69,85.58,89.36,Low,32,None,Yes,38788,Low,No,High,Undecided
+S0578,Student_578,23,Male,Sophomore,45,44,66,69,97.27,61.61,Low,16,Clubs,No,39689,Low,No,Low,Gap Year
+S0579,Student_579,22,Female,Junior,63,43,95,83,98.32,86.98,Low,19,Arts,No,68389,High,No,Medium,Undecided
+S0580,Student_580,25,Female,Sophomore,91,87,95,89,92.91,94.64,Medium,5,Clubs,No,88557,Low,No,Low,Gap Year
+S0581,Student_581,21,Female,Junior,76,72,87,42,91.89,76.41,Low,11,None,No,26233,Low,No,High,College
+S0582,Student_582,25,Non-Binary,Sophomore,44,93,70,56,88.06,61.84,Low,5,Arts,No,95112,High,No,High,Undecided
+S0583,Student_583,18,Non-Binary,Sophomore,40,58,84,100,90.77,93.64,Medium,20,None,No,44409,Low,Yes,Low,Gap Year
+S0584,Student_584,20,Non-Binary,Senior,67,83,75,95,82.94,80.84,High,31,None,Yes,68831,High,Yes,Medium,Job
+S0585,Student_585,18,Non-Binary,Sophomore,75,64,81,59,76.7,92.49,Low,10,Sports,Yes,47591,High,No,Medium,College
+S0586,Student_586,20,Male,Senior,61,47,41,51,98.25,66.21,Low,8,None,No,72714,Medium,No,High,Gap Year
+S0587,Student_587,22,Male,Freshman,98,67,99,81,94.84,87.33,Medium,26,None,No,93639,Low,No,High,Gap Year
+S0588,Student_588,18,Male,Junior,70,49,88,74,99.49,97.12,High,15,Clubs,Yes,73047,Low,Yes,High,Undecided
+S0589,Student_589,22,Female,Junior,68,63,67,54,97.22,65.72,High,33,None,No,57253,Low,No,Medium,College
+S0590,Student_590,15,Non-Binary,Junior,88,73,54,83,76.33,98.43,Low,9,Sports,No,73863,High,Yes,High,Undecided
+S0591,Student_591,21,Male,Junior,97,100,67,46,98.29,68.02,Low,20,Sports,No,92702,Medium,No,High,Undecided
+S0592,Student_592,21,Female,Senior,89,75,97,53,77.59,60.63,Low,31,Clubs,No,90353,High,No,High,Gap Year
+S0593,Student_593,18,Male,Junior,74,57,66,91,93.93,84.41,Medium,16,Sports,No,54547,High,Yes,High,College
+S0594,Student_594,16,Non-Binary,Freshman,65,97,65,55,90.78,70.5,Medium,40,Sports,No,88839,High,No,Medium,Gap Year
+S0595,Student_595,15,Male,Senior,58,41,53,83,98.38,95.51,High,22,Clubs,Yes,53458,Low,Yes,Medium,College
+S0596,Student_596,20,Non-Binary,Freshman,98,49,67,62,83.24,92.01,Low,30,None,Yes,95161,Medium,No,Low,Job
+S0597,Student_597,25,Female,Freshman,59,70,69,81,81.72,69.05,High,30,Arts,No,29913,High,No,Medium,College
+S0598,Student_598,25,Non-Binary,Junior,72,92,80,88,80.18,93.46,Low,33,Sports,Yes,43802,Low,Yes,Medium,Gap Year
+S0599,Student_599,25,Non-Binary,Junior,65,72,48,45,77.93,88.77,Low,27,Arts,Yes,33042,Low,No,High,College
+S0600,Student_600,23,Male,Senior,48,77,78,50,77.13,81.1,Low,26,Sports,No,40249,Medium,No,Low,Gap Year
+S0601,Student_601,21,Male,Junior,41,86,57,72,89.0,98.29,High,28,Sports,Yes,40338,Medium,Yes,Low,College
+S0602,Student_602,22,Female,Freshman,47,93,100,81,82.9,63.4,Low,23,Clubs,Yes,67074,Low,No,Low,Gap Year
+S0603,Student_603,23,Male,Sophomore,70,66,89,74,93.29,88.61,High,24,Sports,Yes,56827,Medium,Yes,High,Undecided
+S0604,Student_604,19,Non-Binary,Sophomore,68,51,80,60,80.53,86.6,Low,30,None,No,47071,Medium,No,Medium,Undecided
+S0605,Student_605,15,Non-Binary,Senior,60,44,40,58,77.76,96.19,High,23,Sports,No,93746,Low,No,Low,Job
+S0606,Student_606,19,Female,Freshman,90,46,58,64,84.62,84.81,Medium,19,None,Yes,48175,High,Yes,Medium,Undecided
+S0607,Student_607,25,Male,Sophomore,93,90,55,40,97.76,66.18,High,39,None,No,77792,Medium,Yes,Low,Gap Year
+S0608,Student_608,25,Female,Senior,70,85,57,86,93.08,90.76,Low,21,Clubs,No,51857,High,Yes,Low,Undecided
+S0609,Student_609,21,Male,Sophomore,44,89,72,50,99.54,81.5,Medium,38,Arts,No,91383,Medium,No,Low,Gap Year
+S0610,Student_610,21,Male,Senior,47,80,73,82,75.19,80.56,High,10,None,Yes,68363,Low,Yes,Low,Gap Year
+S0611,Student_611,20,Male,Sophomore,54,80,58,68,96.02,64.96,High,9,None,Yes,65273,Low,Yes,Medium,College
+S0612,Student_612,21,Male,Freshman,87,59,66,47,98.16,86.37,Medium,23,Arts,Yes,76310,High,No,Low,Gap Year
+S0613,Student_613,16,Non-Binary,Junior,67,94,86,91,80.19,98.82,Low,13,Arts,No,99387,High,No,Medium,Undecided
+S0614,Student_614,24,Non-Binary,Freshman,75,55,55,86,92.27,87.86,Medium,25,None,No,23235,Low,Yes,Low,Undecided
+S0615,Student_615,18,Non-Binary,Junior,64,47,91,44,88.94,81.39,Medium,7,Clubs,Yes,83991,High,Yes,Medium,Undecided
+S0616,Student_616,18,Female,Sophomore,48,85,48,51,98.37,81.4,High,18,Arts,No,98521,Medium,No,Medium,College
+S0617,Student_617,20,Non-Binary,Freshman,69,82,59,89,81.54,61.39,High,16,Clubs,Yes,86063,Medium,No,High,Undecided
+S0618,Student_618,24,Female,Sophomore,90,64,60,49,98.27,82.14,Low,18,None,Yes,45251,High,Yes,Medium,Job
+S0619,Student_619,18,Non-Binary,Junior,84,92,72,96,85.65,77.55,Low,27,Clubs,No,95725,High,No,High,Undecided
+S0620,Student_620,21,Female,Senior,74,57,57,92,81.18,70.27,Low,28,None,No,92328,High,Yes,Low,Job
+S0621,Student_621,15,Female,Sophomore,56,55,100,50,82.97,87.67,Medium,30,Sports,No,70851,Low,Yes,Medium,College
+S0622,Student_622,22,Male,Junior,76,56,90,86,79.84,96.46,Medium,28,Sports,No,25665,High,Yes,High,Undecided
+S0623,Student_623,25,Non-Binary,Freshman,83,64,77,59,93.62,85.51,Medium,20,Clubs,No,33317,Low,Yes,Medium,Job
+S0624,Student_624,23,Male,Freshman,71,84,91,70,85.82,71.99,Medium,11,Sports,No,53318,Low,No,High,College
+S0625,Student_625,24,Male,Sophomore,51,66,49,80,86.18,71.32,Medium,19,Sports,Yes,64309,Medium,No,Low,Job
+S0626,Student_626,19,Non-Binary,Freshman,65,61,57,75,87.99,92.6,Medium,23,Sports,Yes,71426,Low,No,Low,Job
+S0627,Student_627,20,Male,Freshman,75,41,71,81,88.35,71.4,Low,11,Arts,No,22601,Low,No,Medium,Undecided
+S0628,Student_628,21,Non-Binary,Freshman,49,64,70,98,94.74,88.69,Low,18,Clubs,No,50472,Low,No,Low,Undecided
+S0629,Student_629,20,Female,Freshman,62,41,93,65,88.92,70.39,Medium,6,Clubs,Yes,26343,Low,No,Low,Job
+S0630,Student_630,19,Male,Junior,52,75,61,78,77.35,72.82,Low,10,Clubs,Yes,49022,Low,Yes,Medium,College
+S0631,Student_631,23,Female,Freshman,63,85,74,95,90.93,94.33,Low,33,Arts,No,85406,High,No,Low,Job
+S0632,Student_632,21,Male,Freshman,52,81,51,55,97.91,75.69,High,9,Sports,No,42827,Medium,Yes,Low,Gap Year
+S0633,Student_633,25,Female,Sophomore,73,47,49,50,95.98,67.54,Medium,19,Clubs,Yes,96627,Medium,No,Medium,Undecided
+S0634,Student_634,25,Female,Senior,77,83,71,40,92.51,98.62,High,15,Arts,Yes,55507,High,No,Low,College
+S0635,Student_635,18,Non-Binary,Freshman,81,75,74,42,91.62,99.42,Low,39,Clubs,No,75309,High,Yes,High,Gap Year
+S0636,Student_636,22,Non-Binary,Senior,50,64,87,76,95.23,86.98,High,37,None,Yes,41870,High,No,Medium,College
+S0637,Student_637,24,Male,Freshman,47,49,100,94,81.77,84.44,High,15,Clubs,No,46583,Medium,Yes,Medium,Gap Year
+S0638,Student_638,24,Non-Binary,Freshman,90,88,43,61,84.21,81.51,Medium,40,Clubs,No,43081,Medium,No,High,Undecided
+S0639,Student_639,21,Non-Binary,Sophomore,89,44,72,98,76.61,74.36,Medium,33,Clubs,Yes,38992,Medium,Yes,Medium,Undecided
+S0640,Student_640,25,Female,Senior,49,40,85,90,81.57,96.82,Low,17,Sports,Yes,33935,High,No,Low,Undecided
+S0641,Student_641,17,Female,Freshman,67,42,53,75,78.94,98.4,Low,22,Arts,Yes,53338,High,No,Medium,Job
+S0642,Student_642,18,Female,Senior,57,49,67,55,75.59,97.31,High,20,Sports,No,49034,Low,No,High,Undecided
+S0643,Student_643,23,Male,Freshman,55,47,53,60,79.8,77.74,High,39,Arts,No,73958,Low,Yes,Medium,College
+S0644,Student_644,15,Non-Binary,Sophomore,66,92,43,40,88.31,80.11,Medium,12,None,No,92151,Low,Yes,High,Job
+S0645,Student_645,22,Female,Junior,87,73,79,82,81.62,79.51,High,35,Arts,No,75469,High,No,Low,College
+S0646,Student_646,18,Non-Binary,Junior,60,94,93,100,85.96,74.95,Medium,13,Sports,Yes,98045,High,Yes,Low,College
+S0647,Student_647,21,Female,Freshman,96,78,87,67,76.56,98.69,Low,14,Arts,No,90396,Medium,Yes,High,Undecided
+S0648,Student_648,18,Female,Senior,47,74,87,72,77.33,75.52,Medium,31,Arts,No,82537,Low,No,Low,Gap Year
+S0649,Student_649,16,Non-Binary,Freshman,64,65,100,93,85.87,93.09,Medium,17,None,No,81587,Medium,No,Medium,Job
+S0650,Student_650,25,Male,Senior,73,64,77,40,96.5,69.68,Medium,17,None,Yes,46517,Low,No,Medium,Job
+S0651,Student_651,18,Male,Sophomore,69,50,99,64,79.22,70.12,Low,17,Sports,No,82156,Low,Yes,Medium,Job
+S0652,Student_652,25,Male,Junior,98,75,86,76,95.45,64.06,Medium,29,Sports,No,49915,High,Yes,Low,Gap Year
+S0653,Student_653,25,Male,Senior,83,57,90,51,76.87,67.41,Medium,6,None,Yes,47403,High,Yes,Medium,College
+S0654,Student_654,21,Male,Freshman,88,62,61,63,76.12,99.4,Low,32,Arts,No,56196,Medium,No,High,Job
+S0655,Student_655,23,Male,Freshman,62,67,60,52,99.04,69.21,Medium,39,Sports,Yes,25776,High,Yes,High,College
+S0656,Student_656,20,Non-Binary,Senior,64,78,72,64,93.38,72.42,Medium,33,None,No,27430,Medium,No,Low,Job
+S0657,Student_657,18,Female,Junior,47,47,42,55,82.11,82.81,Low,11,Sports,Yes,66456,Medium,No,Medium,Gap Year
+S0658,Student_658,22,Male,Junior,58,62,56,84,81.1,73.06,High,10,Clubs,Yes,52145,Low,No,Medium,Job
+S0659,Student_659,24,Female,Junior,58,53,71,84,95.63,71.04,Low,7,Arts,Yes,56013,Low,Yes,High,Gap Year
+S0660,Student_660,20,Male,Junior,53,50,45,49,87.23,89.37,Low,13,Clubs,Yes,84710,High,Yes,Low,Undecided
+S0661,Student_661,15,Male,Senior,84,44,89,77,90.86,96.44,Low,39,None,Yes,59678,High,No,High,Undecided
+S0662,Student_662,15,Non-Binary,Sophomore,74,59,100,43,93.92,73.39,Medium,35,None,No,29677,High,Yes,High,Job
+S0663,Student_663,19,Female,Freshman,81,92,69,96,88.61,75.62,High,19,Sports,Yes,42953,Medium,Yes,Low,Gap Year
+S0664,Student_664,16,Male,Freshman,83,52,95,86,82.07,98.67,High,9,Arts,Yes,75076,High,Yes,High,Undecided
+S0665,Student_665,21,Non-Binary,Junior,57,48,45,74,85.65,96.17,Low,29,None,Yes,56711,Low,Yes,High,College
+S0666,Student_666,21,Female,Junior,71,62,75,95,85.17,95.81,Medium,40,Sports,No,26059,High,No,High,College
+S0667,Student_667,20,Female,Junior,53,100,69,40,93.11,98.32,High,21,Sports,No,84308,Medium,No,Low,Gap Year
+S0668,Student_668,18,Female,Senior,54,76,82,65,89.86,74.27,Medium,30,Clubs,No,40529,Low,No,Low,College
+S0669,Student_669,23,Non-Binary,Freshman,58,95,93,77,88.17,93.12,Low,32,None,Yes,85162,Low,No,Medium,College
+S0670,Student_670,24,Non-Binary,Junior,68,61,61,61,96.62,60.07,Medium,9,Clubs,No,52282,Medium,Yes,High,College
+S0671,Student_671,20,Female,Senior,86,67,63,91,89.07,62.7,High,12,None,No,24489,Low,Yes,High,Undecided
+S0672,Student_672,24,Non-Binary,Junior,61,98,77,99,85.62,63.66,Medium,32,Sports,No,89599,Medium,No,Medium,Gap Year
+S0673,Student_673,19,Male,Senior,65,47,49,54,78.23,72.6,Medium,39,Sports,Yes,53617,Medium,Yes,Medium,Gap Year
+S0674,Student_674,25,Female,Freshman,48,82,94,62,99.21,94.69,High,8,Sports,Yes,55022,Low,Yes,Medium,Undecided
+S0675,Student_675,17,Female,Junior,58,60,43,46,75.19,61.02,Low,22,Sports,Yes,99159,Low,No,High,College
+S0676,Student_676,16,Male,Senior,83,84,76,59,80.96,60.41,Low,25,Sports,No,82101,Medium,No,Medium,Gap Year
+S0677,Student_677,16,Female,Freshman,91,98,83,90,85.44,89.34,High,15,Sports,Yes,93658,High,No,Medium,Undecided
+S0678,Student_678,25,Male,Junior,94,88,99,96,90.0,77.74,Low,24,Clubs,No,42225,Medium,Yes,Low,Undecided
+S0679,Student_679,22,Male,Freshman,96,98,86,97,82.14,69.47,High,22,Sports,No,51073,High,No,High,College
+S0680,Student_680,23,Non-Binary,Senior,43,93,46,98,79.73,83.98,Low,37,Sports,Yes,98493,Medium,No,Low,College
+S0681,Student_681,22,Female,Junior,61,90,61,80,84.11,67.29,Low,28,Clubs,Yes,35530,Low,No,Low,College
+S0682,Student_682,22,Female,Junior,45,61,78,64,94.0,94.56,Medium,13,None,No,42472,Medium,No,Medium,Gap Year
+S0683,Student_683,24,Male,Sophomore,88,83,47,91,97.86,75.47,Low,29,None,No,32337,Medium,No,High,Gap Year
+S0684,Student_684,24,Female,Freshman,72,64,47,52,82.88,67.66,Low,28,None,Yes,44644,Low,No,Medium,Job
+S0685,Student_685,19,Non-Binary,Senior,59,44,53,60,95.33,90.69,Medium,36,Sports,No,60922,Medium,No,Medium,Gap Year
+S0686,Student_686,21,Male,Senior,77,68,47,57,95.78,77.46,Low,8,Arts,Yes,65406,Medium,No,Low,Job
+S0687,Student_687,19,Female,Freshman,70,90,84,56,91.59,63.2,Medium,8,None,Yes,42674,High,Yes,Medium,Job
+S0688,Student_688,17,Male,Junior,76,82,71,68,79.9,71.22,High,22,Sports,No,77100,High,Yes,Low,Undecided
+S0689,Student_689,24,Non-Binary,Junior,99,99,71,59,95.33,82.13,High,30,Arts,No,50019,High,No,Low,Gap Year
+S0690,Student_690,23,Male,Freshman,50,78,68,65,88.17,91.79,Low,7,Clubs,No,99115,Medium,Yes,Low,Gap Year
+S0691,Student_691,22,Male,Freshman,53,86,91,84,98.87,99.81,Medium,25,None,No,76288,Medium,No,Low,Job
+S0692,Student_692,18,Male,Sophomore,93,98,41,97,93.43,89.1,Medium,26,Arts,Yes,21698,Low,Yes,Low,Undecided
+S0693,Student_693,15,Male,Senior,53,96,54,61,79.25,96.42,High,39,None,No,70362,Low,No,High,Job
+S0694,Student_694,22,Non-Binary,Senior,72,64,88,44,87.26,67.47,High,29,Clubs,Yes,57135,High,No,High,College
+S0695,Student_695,19,Non-Binary,Senior,99,92,97,99,97.62,71.41,Medium,22,Sports,No,58165,High,Yes,High,Job
+S0696,Student_696,16,Female,Freshman,96,85,60,96,98.65,72.65,Medium,6,Clubs,No,82752,Medium,Yes,Low,College
+S0697,Student_697,21,Non-Binary,Sophomore,100,65,99,70,86.19,89.69,Low,14,Clubs,No,86577,Low,Yes,Medium,Gap Year
+S0698,Student_698,17,Male,Freshman,79,96,55,57,86.45,92.11,Medium,30,None,Yes,67279,Low,No,Low,Gap Year
+S0699,Student_699,23,Non-Binary,Junior,94,95,72,87,88.67,61.01,High,19,None,No,67182,Low,Yes,Low,Gap Year
+S0700,Student_700,23,Non-Binary,Freshman,48,75,95,90,78.81,61.27,High,17,Sports,No,31769,High,No,High,Gap Year
+S0701,Student_701,21,Non-Binary,Junior,98,63,76,53,78.98,89.12,Low,12,None,Yes,30350,High,Yes,Medium,Gap Year
+S0702,Student_702,24,Female,Sophomore,71,60,43,50,80.01,94.57,Low,30,Clubs,No,66410,Medium,Yes,Medium,College
+S0703,Student_703,19,Male,Senior,65,59,48,55,86.2,80.88,Low,5,Sports,No,88213,High,No,High,Undecided
+S0704,Student_704,23,Male,Junior,65,72,59,70,91.02,86.43,Low,24,Clubs,No,66571,High,No,Medium,Job
+S0705,Student_705,22,Non-Binary,Freshman,54,50,86,58,77.87,65.55,High,35,Clubs,Yes,58776,Medium,Yes,High,Gap Year
+S0706,Student_706,22,Non-Binary,Junior,62,43,66,51,94.78,64.91,Medium,21,Clubs,No,71449,Low,No,Low,Undecided
+S0707,Student_707,16,Male,Sophomore,99,51,64,84,80.9,88.08,Medium,18,Sports,No,76876,Medium,Yes,Medium,Gap Year
+S0708,Student_708,17,Female,Sophomore,84,54,43,55,87.57,73.1,High,22,None,Yes,39259,High,Yes,Low,Gap Year
+S0709,Student_709,24,Non-Binary,Sophomore,71,65,54,83,91.61,98.83,High,39,None,Yes,36008,High,Yes,High,College
+S0710,Student_710,24,Female,Sophomore,60,89,79,59,95.09,60.38,High,11,Arts,Yes,41532,High,Yes,High,Job
+S0711,Student_711,19,Female,Junior,53,57,78,87,79.28,93.24,Low,20,Arts,Yes,87196,High,Yes,Low,Job
+S0712,Student_712,17,Male,Junior,92,51,44,58,77.17,67.38,Low,18,Arts,No,68566,Low,No,Medium,Job
+S0713,Student_713,21,Female,Sophomore,73,68,85,47,80.72,70.8,High,13,Clubs,No,77082,Medium,Yes,High,Job
+S0714,Student_714,18,Male,Senior,41,88,84,79,89.16,89.77,High,10,None,No,30757,High,Yes,Low,Gap Year
+S0715,Student_715,15,Non-Binary,Sophomore,45,85,64,99,96.05,73.13,Low,31,None,Yes,51636,Low,Yes,Low,Job
+S0716,Student_716,20,Non-Binary,Freshman,42,84,85,93,86.61,76.23,Low,24,None,Yes,93008,Medium,Yes,Low,College
+S0717,Student_717,23,Male,Sophomore,45,94,41,69,77.76,85.9,High,13,Clubs,Yes,81428,Medium,Yes,Low,Job
+S0718,Student_718,25,Non-Binary,Sophomore,70,60,85,97,94.38,64.75,Low,26,Arts,No,35115,High,Yes,High,Gap Year
+S0719,Student_719,22,Male,Sophomore,41,91,61,90,75.34,98.36,High,31,Arts,No,49753,Low,Yes,High,Gap Year
+S0720,Student_720,23,Male,Freshman,58,92,91,96,95.49,79.66,Medium,28,Clubs,No,40381,Medium,No,High,College
+S0721,Student_721,18,Non-Binary,Sophomore,77,64,47,53,79.52,60.56,Medium,20,None,No,45899,Medium,Yes,Medium,Job
+S0722,Student_722,20,Female,Sophomore,96,94,92,48,75.94,64.26,Low,19,None,No,55678,Low,No,Medium,Undecided
+S0723,Student_723,21,Male,Freshman,71,81,51,70,91.45,85.7,Low,8,Sports,No,46472,Medium,No,Medium,College
+S0724,Student_724,15,Non-Binary,Senior,55,63,93,66,99.42,94.91,Medium,31,Clubs,No,50500,High,No,Medium,Job
+S0725,Student_725,23,Female,Senior,41,49,69,93,85.2,80.36,Low,8,Sports,Yes,57537,Medium,Yes,Low,Job
+S0726,Student_726,19,Male,Sophomore,77,67,81,89,96.83,82.71,High,28,Sports,Yes,76026,High,Yes,Medium,College
+S0727,Student_727,23,Male,Sophomore,89,89,93,63,84.8,95.39,Medium,29,Sports,Yes,75557,High,No,High,Undecided
+S0728,Student_728,23,Male,Junior,90,99,87,92,85.53,61.29,Low,8,None,No,81663,Medium,No,High,Job
+S0729,Student_729,20,Female,Senior,47,56,86,59,91.39,65.08,Low,20,Clubs,No,52276,Low,No,Medium,College
+S0730,Student_730,18,Male,Junior,93,51,81,73,89.44,66.66,Low,10,Arts,No,65823,Medium,No,Low,College
+S0731,Student_731,18,Female,Sophomore,85,50,91,48,98.42,71.83,Low,20,Sports,Yes,71214,Medium,No,Medium,College
+S0732,Student_732,15,Non-Binary,Senior,74,79,64,57,95.97,82.64,High,14,Sports,No,48439,Low,Yes,High,Undecided
+S0733,Student_733,19,Male,Freshman,95,55,83,100,76.87,74.58,Medium,38,Sports,Yes,89086,High,No,Low,Job
+S0734,Student_734,19,Non-Binary,Sophomore,77,75,59,87,85.95,79.28,Medium,22,Clubs,No,50360,High,No,High,Gap Year
+S0735,Student_735,19,Male,Sophomore,58,46,56,90,98.48,72.65,Low,21,Clubs,No,57977,Low,No,Low,Undecided
+S0736,Student_736,22,Non-Binary,Sophomore,82,88,66,68,95.02,86.22,Low,17,None,Yes,81873,High,Yes,Low,Undecided
+S0737,Student_737,24,Male,Senior,74,91,42,85,82.93,81.92,Medium,29,Sports,No,82338,Low,No,Medium,Undecided
+S0738,Student_738,21,Male,Junior,60,54,47,40,93.74,62.29,Low,7,None,Yes,39978,Medium,No,High,College
+S0739,Student_739,25,Male,Sophomore,68,54,52,83,78.79,72.24,High,8,Sports,No,52081,High,Yes,Medium,Job
+S0740,Student_740,19,Non-Binary,Sophomore,100,44,54,67,83.09,79.08,High,16,Clubs,No,96260,Medium,No,Low,Gap Year
+S0741,Student_741,21,Male,Freshman,53,43,81,68,86.6,69.78,Low,28,Sports,Yes,51866,Medium,Yes,Medium,Gap Year
+S0742,Student_742,16,Non-Binary,Junior,76,94,89,63,96.83,86.11,Medium,31,Clubs,No,65342,Medium,No,High,Job
+S0743,Student_743,21,Non-Binary,Senior,55,67,54,52,96.18,63.39,High,38,None,No,90495,Medium,No,High,Gap Year
+S0744,Student_744,19,Female,Sophomore,69,48,100,65,93.12,71.59,High,12,Sports,No,67686,Medium,No,High,Undecided
+S0745,Student_745,21,Male,Freshman,97,47,95,71,82.67,68.71,Low,12,Sports,No,81105,High,No,High,Job
+S0746,Student_746,19,Male,Freshman,43,58,99,58,94.8,70.5,Medium,26,Sports,Yes,34605,Low,No,Low,College
+S0747,Student_747,15,Male,Junior,50,73,59,94,93.89,75.83,Medium,35,None,No,98093,Medium,Yes,Low,Job
+S0748,Student_748,24,Female,Sophomore,83,46,91,41,77.85,84.25,Low,16,None,No,26682,Medium,No,Low,Undecided
+S0749,Student_749,24,Female,Freshman,56,53,75,79,83.45,71.73,Medium,34,Arts,Yes,27907,Low,Yes,Low,College
+S0750,Student_750,23,Female,Junior,86,75,46,40,77.07,95.18,High,11,Sports,No,59043,Medium,Yes,Medium,Undecided
+S0751,Student_751,17,Non-Binary,Senior,73,93,46,53,78.45,83.61,High,17,Arts,No,41536,High,No,High,Undecided
+S0752,Student_752,18,Non-Binary,Freshman,67,54,70,90,76.78,80.82,Medium,5,None,No,62713,Medium,Yes,High,Gap Year
+S0753,Student_753,20,Female,Sophomore,55,78,89,63,89.2,71.48,Low,31,Arts,Yes,81907,Low,No,Medium,Job
+S0754,Student_754,19,Female,Junior,60,40,54,55,84.6,70.45,High,21,Arts,No,42081,Medium,Yes,Low,Job
+S0755,Student_755,20,Female,Junior,91,71,49,88,93.43,98.7,Low,32,Arts,No,22384,Medium,Yes,High,Gap Year
+S0756,Student_756,17,Female,Freshman,55,46,66,49,88.67,86.28,High,37,Sports,Yes,58039,Medium,Yes,Low,Job
+S0757,Student_757,23,Female,Senior,96,100,68,48,85.73,86.52,Medium,15,Arts,No,68459,Low,Yes,Low,Undecided
+S0758,Student_758,25,Female,Senior,85,62,46,57,76.87,63.12,Low,6,Clubs,No,51161,Medium,Yes,High,Gap Year
+S0759,Student_759,18,Male,Junior,78,63,68,81,96.81,93.56,Low,30,Arts,No,36686,High,Yes,Low,Job
+S0760,Student_760,23,Female,Senior,60,56,57,48,96.91,83.35,High,10,None,Yes,42971,High,No,Low,Undecided
+S0761,Student_761,23,Non-Binary,Junior,96,58,98,86,93.26,62.57,High,7,Sports,No,96568,Medium,Yes,High,Job
+S0762,Student_762,17,Female,Junior,74,50,64,90,76.48,95.08,Low,11,None,Yes,81925,High,No,High,College
+S0763,Student_763,24,Female,Junior,42,76,43,87,88.03,61.34,Low,30,None,Yes,84699,High,No,Low,Undecided
+S0764,Student_764,22,Female,Senior,56,96,41,98,90.49,61.46,Low,21,Arts,Yes,20839,Medium,No,Medium,Gap Year
+S0765,Student_765,16,Female,Sophomore,93,66,81,45,78.9,88.54,Low,25,Sports,No,65344,Low,Yes,High,Job
+S0766,Student_766,24,Non-Binary,Senior,87,66,89,92,78.07,82.13,Medium,24,Clubs,No,28196,Medium,Yes,Low,College
+S0767,Student_767,20,Female,Junior,50,41,74,71,85.48,97.89,Medium,31,Arts,Yes,95624,Medium,Yes,Medium,Job
+S0768,Student_768,23,Female,Junior,67,98,86,48,93.12,85.15,Medium,16,Arts,No,78299,Low,No,Low,College
+S0769,Student_769,21,Non-Binary,Freshman,63,70,76,45,92.92,98.95,Low,14,None,No,72384,High,No,High,Undecided
+S0770,Student_770,21,Female,Senior,92,70,65,97,95.23,84.17,Low,21,Arts,No,21312,High,No,Medium,Gap Year
+S0771,Student_771,25,Non-Binary,Freshman,62,64,47,54,80.75,70.53,Medium,23,Clubs,No,25649,Medium,No,Medium,Gap Year
+S0772,Student_772,20,Female,Sophomore,50,70,92,84,93.1,98.24,Medium,34,Arts,Yes,87519,High,No,Medium,College
+S0773,Student_773,18,Non-Binary,Freshman,46,49,49,46,93.44,60.19,Low,7,None,Yes,29629,Medium,No,Low,College
+S0774,Student_774,23,Female,Sophomore,86,40,88,84,86.6,62.8,Medium,19,None,Yes,20928,High,Yes,High,College
+S0775,Student_775,23,Female,Junior,88,74,95,54,90.02,77.81,High,8,Sports,No,69300,High,Yes,Medium,Undecided
+S0776,Student_776,17,Non-Binary,Senior,58,45,60,58,91.54,97.51,Low,21,Sports,No,70175,Low,Yes,Medium,Undecided
+S0777,Student_777,15,Non-Binary,Sophomore,94,51,49,47,93.2,82.64,Low,14,Clubs,Yes,57848,Medium,No,Low,College
+S0778,Student_778,23,Female,Senior,42,69,58,59,96.08,78.34,High,38,Arts,Yes,92242,Low,Yes,Medium,College
+S0779,Student_779,20,Female,Sophomore,92,60,82,54,79.03,92.08,High,29,Sports,Yes,79570,High,Yes,High,College
+S0780,Student_780,16,Non-Binary,Junior,54,99,95,54,97.45,69.06,Medium,5,None,No,60864,High,No,Low,College
+S0781,Student_781,16,Female,Sophomore,90,91,61,56,86.69,87.55,Medium,31,Arts,Yes,83182,High,Yes,Medium,College
+S0782,Student_782,18,Female,Senior,45,100,95,44,76.98,88.58,Low,6,Clubs,Yes,73402,High,Yes,Medium,College
+S0783,Student_783,15,Female,Freshman,95,66,83,94,92.22,86.76,Low,13,Sports,No,78165,Medium,No,High,College
+S0784,Student_784,16,Female,Sophomore,75,84,72,98,87.01,99.36,Medium,13,Sports,No,26343,High,Yes,High,College
+S0785,Student_785,22,Male,Senior,98,49,61,76,82.48,79.04,Medium,20,Clubs,Yes,99799,Medium,Yes,High,Job
+S0786,Student_786,20,Female,Freshman,62,84,73,54,77.43,79.81,Low,34,None,No,89801,Low,Yes,Medium,Undecided
+S0787,Student_787,22,Non-Binary,Sophomore,67,98,96,88,87.71,90.22,High,27,Sports,No,59505,Medium,Yes,Medium,Job
+S0788,Student_788,25,Non-Binary,Senior,96,98,41,92,99.68,95.03,High,22,None,No,49766,High,No,High,Gap Year
+S0789,Student_789,25,Non-Binary,Freshman,44,72,44,64,77.9,75.82,High,19,Clubs,No,51076,High,Yes,Low,Job
+S0790,Student_790,21,Female,Freshman,63,61,67,80,85.14,91.45,Low,13,Arts,Yes,94326,Medium,Yes,High,Job
+S0791,Student_791,25,Non-Binary,Freshman,96,69,98,99,82.92,87.15,Medium,5,Clubs,Yes,87860,High,Yes,Medium,Gap Year
+S0792,Student_792,19,Non-Binary,Freshman,98,44,52,100,97.92,76.86,Medium,35,Clubs,Yes,42101,Medium,Yes,High,Gap Year
+S0793,Student_793,19,Male,Senior,55,87,61,53,89.4,60.36,High,32,None,Yes,87688,Medium,No,Medium,College
+S0794,Student_794,21,Male,Sophomore,91,74,62,74,77.18,65.63,High,29,None,No,95739,Low,No,Medium,College
+S0795,Student_795,20,Female,Junior,78,96,98,82,84.43,88.81,High,18,Arts,No,39290,Medium,Yes,High,Undecided
+S0796,Student_796,20,Female,Senior,93,74,57,54,81.0,62.31,High,26,Clubs,No,45305,Medium,No,High,Undecided
+S0797,Student_797,20,Female,Junior,41,84,72,69,99.46,86.34,High,8,Clubs,Yes,60028,Medium,No,High,Undecided
+S0798,Student_798,23,Non-Binary,Junior,50,73,62,45,98.1,80.67,Low,25,Clubs,No,80857,High,Yes,High,Undecided
+S0799,Student_799,21,Male,Senior,61,58,45,75,85.58,79.98,Low,27,Clubs,Yes,55817,High,Yes,Medium,Undecided
+S0800,Student_800,17,Male,Freshman,81,80,69,88,78.59,67.75,High,39,Clubs,No,88958,Medium,No,Medium,Gap Year
+S0801,Student_801,15,Female,Junior,67,47,73,74,95.51,64.4,Low,9,Arts,No,25196,High,No,High,Job
+S0802,Student_802,17,Male,Freshman,52,83,45,63,80.14,88.31,High,13,None,No,84656,Medium,No,Medium,Undecided
+S0803,Student_803,19,Non-Binary,Senior,44,84,70,40,77.15,85.75,High,36,None,Yes,81926,High,No,High,Undecided
+S0804,Student_804,25,Male,Senior,42,55,88,69,78.76,76.71,High,30,Sports,Yes,84400,Medium,Yes,Low,Undecided
+S0805,Student_805,25,Non-Binary,Sophomore,100,91,85,67,87.59,81.64,Medium,25,Arts,No,86384,High,Yes,High,College
+S0806,Student_806,23,Female,Freshman,42,56,61,72,78.07,72.78,Low,37,None,No,31148,High,Yes,High,Job
+S0807,Student_807,19,Male,Sophomore,95,42,59,80,78.54,98.81,Medium,13,None,No,94391,Low,No,Low,Undecided
+S0808,Student_808,22,Female,Senior,82,63,57,92,86.41,86.28,High,8,None,No,23158,High,Yes,High,Gap Year
+S0809,Student_809,21,Male,Senior,46,66,89,79,78.47,80.16,High,40,None,No,41514,Low,Yes,Medium,College
+S0810,Student_810,17,Male,Freshman,87,94,81,64,77.27,78.33,High,30,None,No,24806,High,Yes,Medium,Undecided
+S0811,Student_811,18,Non-Binary,Junior,87,65,55,63,79.18,85.29,High,27,Arts,No,67339,High,Yes,High,Gap Year
+S0812,Student_812,21,Female,Sophomore,60,56,44,64,94.74,65.68,Low,5,Sports,No,34579,High,No,Low,Gap Year
+S0813,Student_813,15,Male,Freshman,53,44,45,76,89.28,95.29,High,10,Sports,Yes,46781,Medium,Yes,Low,Job
+S0814,Student_814,18,Female,Freshman,75,51,66,89,89.75,68.77,Low,36,None,No,47228,High,No,Low,Job
+S0815,Student_815,18,Female,Freshman,76,72,68,64,82.22,82.25,Low,21,Arts,No,52346,Medium,No,High,Gap Year
+S0816,Student_816,18,Male,Junior,92,93,98,66,91.07,86.75,Low,40,Sports,Yes,58547,Low,Yes,Low,Gap Year
+S0817,Student_817,18,Female,Freshman,68,87,76,53,76.29,73.34,High,20,None,Yes,77128,Low,Yes,Medium,College
+S0818,Student_818,18,Male,Junior,56,79,93,44,98.04,99.3,Medium,8,Sports,Yes,50390,Medium,No,Medium,Job
+S0819,Student_819,16,Female,Freshman,79,69,64,98,77.69,81.09,High,35,Sports,No,71647,Low,No,Low,College
+S0820,Student_820,24,Female,Senior,61,65,41,44,94.51,87.33,High,21,Sports,No,75770,Medium,No,Low,Job
+S0821,Student_821,25,Male,Sophomore,45,64,48,80,92.44,69.46,High,21,Sports,Yes,49209,Low,Yes,High,Gap Year
+S0822,Student_822,20,Male,Junior,69,50,59,53,99.57,75.62,High,8,Arts,No,92282,High,Yes,Medium,College
+S0823,Student_823,15,Female,Junior,71,89,86,53,75.35,86.8,Low,21,Arts,No,61085,Low,Yes,Low,College
+S0824,Student_824,20,Non-Binary,Freshman,78,62,88,97,99.05,73.08,Low,28,Arts,No,26926,High,No,Medium,Undecided
+S0825,Student_825,16,Non-Binary,Freshman,77,100,44,56,84.15,70.81,Low,21,Arts,No,45884,Medium,No,Low,College
+S0826,Student_826,15,Male,Junior,88,51,85,58,83.83,69.58,Medium,22,Clubs,Yes,37280,High,Yes,Low,College
+S0827,Student_827,17,Non-Binary,Sophomore,53,81,41,56,96.08,65.83,High,8,Clubs,Yes,70789,High,No,Low,Gap Year
+S0828,Student_828,16,Non-Binary,Freshman,56,60,80,59,80.98,99.99,Low,25,None,No,50675,Medium,No,Medium,Gap Year
+S0829,Student_829,16,Female,Freshman,51,79,60,53,98.78,61.49,Low,35,Arts,Yes,45810,High,Yes,Low,Gap Year
+S0830,Student_830,23,Male,Sophomore,77,82,47,89,76.09,86.8,High,11,Clubs,No,56901,High,No,Medium,College
+S0831,Student_831,24,Female,Senior,89,68,76,56,83.5,71.06,Low,40,Arts,Yes,52124,High,Yes,High,Undecided
+S0832,Student_832,15,Non-Binary,Sophomore,89,84,100,91,99.28,79.28,Low,17,Clubs,No,36938,High,No,High,College
+S0833,Student_833,21,Non-Binary,Senior,100,75,43,73,88.41,67.61,High,23,Clubs,No,65256,Low,No,High,College
+S0834,Student_834,22,Male,Sophomore,57,73,42,85,89.01,66.48,Low,16,Arts,Yes,61484,High,No,Medium,Gap Year
+S0835,Student_835,19,Female,Senior,52,52,82,84,78.18,62.14,High,20,Sports,Yes,38781,Medium,Yes,High,Job
+S0836,Student_836,23,Non-Binary,Senior,58,94,76,91,94.92,97.57,Low,26,None,No,44124,High,No,High,College
+S0837,Student_837,22,Male,Freshman,48,40,93,50,86.38,91.71,Low,25,Sports,No,87245,High,No,Low,Job
+S0838,Student_838,20,Male,Freshman,61,93,56,55,91.66,89.56,High,40,Clubs,Yes,39197,Medium,No,High,College
+S0839,Student_839,19,Non-Binary,Senior,43,53,91,49,93.47,76.94,High,21,Arts,Yes,60698,Low,No,High,Undecided
+S0840,Student_840,19,Non-Binary,Freshman,60,55,89,82,76.82,75.41,High,34,Clubs,Yes,60184,Low,Yes,Low,Gap Year
+S0841,Student_841,24,Male,Junior,94,40,53,86,79.29,93.48,Medium,35,Sports,Yes,35295,Low,Yes,Low,Undecided
+S0842,Student_842,21,Female,Sophomore,85,91,76,50,79.86,67.52,High,30,Clubs,No,42723,Medium,Yes,High,College
+S0843,Student_843,22,Male,Junior,43,73,45,54,86.11,69.85,Medium,7,Sports,No,71560,High,Yes,Medium,College
+S0844,Student_844,24,Male,Sophomore,75,73,61,61,90.34,74.11,Low,31,Arts,No,35036,High,No,High,Undecided
+S0845,Student_845,24,Female,Sophomore,70,80,92,81,94.61,91.08,High,21,Clubs,No,73571,High,Yes,Medium,Job
+S0846,Student_846,21,Male,Sophomore,63,44,46,88,81.58,99.93,Low,35,Sports,Yes,77355,High,No,Low,College
+S0847,Student_847,22,Female,Sophomore,77,93,74,50,96.75,60.19,Low,5,Sports,No,37510,High,No,Medium,Job
+S0848,Student_848,15,Non-Binary,Freshman,57,65,40,98,88.37,81.9,High,33,Clubs,No,31510,Medium,No,Medium,College
+S0849,Student_849,20,Female,Junior,76,85,70,99,91.01,68.62,Medium,30,Arts,Yes,38899,Medium,Yes,Medium,College
+S0850,Student_850,18,Male,Sophomore,82,42,55,81,86.75,74.23,Medium,37,Arts,Yes,70561,Low,Yes,High,College
+S0851,Student_851,25,Non-Binary,Freshman,56,86,50,53,93.57,73.07,Low,26,Sports,Yes,42898,Low,Yes,Medium,Gap Year
+S0852,Student_852,15,Male,Senior,61,71,46,48,87.21,82.63,Low,30,Arts,Yes,30370,Medium,Yes,Medium,Gap Year
+S0853,Student_853,18,Male,Freshman,56,40,100,57,96.49,61.24,High,15,Arts,No,39192,High,Yes,Low,Gap Year
+S0854,Student_854,19,Male,Sophomore,49,48,84,93,97.74,70.88,High,33,Arts,Yes,84146,Medium,No,High,College
+S0855,Student_855,18,Non-Binary,Senior,92,40,50,44,87.55,72.25,Low,30,Sports,No,27383,Low,No,Low,Undecided
+S0856,Student_856,25,Female,Junior,62,49,45,63,77.34,84.66,Low,29,Clubs,Yes,93167,Low,No,Medium,Job
+S0857,Student_857,17,Female,Junior,71,55,58,82,90.21,61.14,High,13,Clubs,No,40184,Low,Yes,Medium,Job
+S0858,Student_858,22,Non-Binary,Freshman,47,95,49,79,92.64,64.17,Medium,16,Arts,No,71772,High,No,Low,Undecided
+S0859,Student_859,23,Male,Freshman,40,45,78,95,95.86,84.85,High,32,Clubs,No,69064,High,Yes,Medium,Gap Year
+S0860,Student_860,17,Non-Binary,Freshman,48,58,72,95,92.45,71.75,High,32,None,No,66704,Low,Yes,Low,Undecided
+S0861,Student_861,18,Male,Sophomore,68,93,75,75,83.98,96.18,Low,33,Arts,Yes,77183,Medium,Yes,Medium,Gap Year
+S0862,Student_862,25,Non-Binary,Freshman,68,70,79,40,93.5,84.63,Medium,32,Clubs,No,41304,Medium,Yes,High,College
+S0863,Student_863,24,Male,Freshman,78,49,89,71,80.26,98.11,Medium,5,Clubs,Yes,60232,Low,No,Medium,Undecided
+S0864,Student_864,19,Non-Binary,Senior,84,46,64,78,83.58,95.93,Low,10,None,No,29273,Low,No,Medium,Undecided
+S0865,Student_865,17,Female,Freshman,66,80,45,56,86.03,86.25,Medium,20,Clubs,Yes,21169,Low,Yes,High,Gap Year
+S0866,Student_866,16,Male,Freshman,59,71,84,90,82.42,97.64,Medium,20,Clubs,No,63825,Medium,No,High,Undecided
+S0867,Student_867,15,Non-Binary,Sophomore,82,73,78,99,98.14,80.24,Medium,22,Sports,Yes,92364,Low,Yes,High,Job
+S0868,Student_868,24,Non-Binary,Senior,85,93,90,86,94.75,92.53,Medium,39,Sports,No,84300,Medium,No,Medium,College
+S0869,Student_869,17,Male,Freshman,62,63,83,81,91.22,82.82,Low,15,Arts,Yes,98752,High,Yes,Medium,College
+S0870,Student_870,22,Male,Junior,87,86,52,43,81.67,87.45,High,16,None,No,95782,Medium,No,Low,Gap Year
+S0871,Student_871,23,Non-Binary,Junior,79,41,78,95,95.76,63.82,High,40,Sports,Yes,42264,High,Yes,Medium,Gap Year
+S0872,Student_872,17,Non-Binary,Sophomore,68,85,53,80,89.96,86.53,High,18,Clubs,No,53713,Low,Yes,High,Gap Year
+S0873,Student_873,21,Non-Binary,Freshman,68,79,93,49,94.06,77.31,Medium,7,None,No,89404,Medium,No,Medium,Gap Year
+S0874,Student_874,22,Non-Binary,Freshman,57,69,98,56,79.95,83.75,Low,8,Clubs,Yes,24643,High,Yes,High,College
+S0875,Student_875,15,Male,Freshman,100,59,100,62,89.7,75.22,Low,10,None,Yes,51527,Medium,Yes,High,Gap Year
+S0876,Student_876,15,Female,Senior,80,53,85,98,91.49,94.27,Low,12,None,Yes,44699,Medium,Yes,Low,College
+S0877,Student_877,15,Male,Junior,96,54,50,70,92.95,79.44,Medium,34,None,Yes,50364,Medium,Yes,High,College
+S0878,Student_878,18,Non-Binary,Junior,100,82,83,59,85.36,60.32,High,14,Arts,Yes,22017,High,Yes,High,College
+S0879,Student_879,24,Non-Binary,Freshman,96,81,91,52,85.12,72.71,Medium,34,Sports,Yes,40758,High,No,Low,Job
+S0880,Student_880,16,Female,Freshman,84,56,42,86,91.9,78.17,High,6,None,No,91634,Low,No,Low,Gap Year
+S0881,Student_881,24,Non-Binary,Freshman,70,88,84,49,97.97,84.75,Medium,25,None,No,23607,Low,Yes,Medium,College
+S0882,Student_882,22,Non-Binary,Senior,77,51,41,62,90.06,67.15,Medium,39,Clubs,Yes,76268,Medium,No,Low,Job
+S0883,Student_883,18,Male,Sophomore,91,44,56,54,98.94,98.13,Medium,14,Sports,No,24762,Medium,Yes,Low,Undecided
+S0884,Student_884,16,Female,Sophomore,73,51,57,44,86.91,60.06,Medium,17,Clubs,No,41162,Medium,Yes,Low,Job
+S0885,Student_885,19,Female,Freshman,53,45,90,78,98.25,71.09,High,32,None,Yes,77018,Medium,Yes,Low,College
+S0886,Student_886,17,Female,Senior,53,63,95,53,84.96,85.91,Low,14,Sports,Yes,55184,Medium,No,High,Job
+S0887,Student_887,18,Female,Sophomore,55,70,91,77,84.85,65.3,High,36,Sports,No,65383,High,No,Low,Job
+S0888,Student_888,22,Female,Freshman,77,95,89,62,87.43,93.39,Medium,23,Arts,No,29136,Medium,Yes,High,College
+S0889,Student_889,20,Non-Binary,Sophomore,71,57,80,47,93.4,99.3,Low,17,Clubs,No,31258,Low,Yes,Medium,College
+S0890,Student_890,21,Female,Freshman,57,71,56,42,95.36,87.93,Medium,25,Arts,No,70098,High,No,Low,Job
+S0891,Student_891,19,Female,Sophomore,44,62,100,92,94.54,75.93,Low,16,Arts,No,29158,Low,Yes,High,Job
+S0892,Student_892,22,Male,Freshman,42,65,62,95,81.96,63.69,Medium,27,Sports,No,87248,High,No,Medium,Undecided
+S0893,Student_893,18,Male,Freshman,93,96,75,62,94.44,82.78,Medium,9,Arts,No,51024,Medium,Yes,Low,Job
+S0894,Student_894,22,Female,Junior,82,98,58,75,94.81,76.41,Medium,35,Sports,Yes,27321,Low,No,Medium,Undecided
+S0895,Student_895,21,Female,Freshman,93,66,98,73,96.98,83.67,High,37,Clubs,No,76477,High,No,High,Job
+S0896,Student_896,24,Male,Senior,91,87,98,41,97.99,83.74,Medium,29,Clubs,Yes,62933,Low,Yes,Medium,Job
+S0897,Student_897,18,Female,Junior,60,67,74,69,94.46,72.09,High,10,Clubs,Yes,29264,High,No,High,College
+S0898,Student_898,18,Non-Binary,Sophomore,69,64,58,59,96.32,98.06,Low,20,Sports,No,64411,High,No,Medium,Gap Year
+S0899,Student_899,16,Non-Binary,Senior,58,99,83,69,99.3,70.72,Medium,24,Sports,Yes,75015,Low,Yes,Medium,Gap Year
+S0900,Student_900,23,Female,Freshman,84,83,94,76,93.93,98.36,Medium,10,Arts,No,68346,High,Yes,Medium,Job
+S0901,Student_901,22,Male,Junior,76,100,51,51,78.27,60.84,Medium,39,Sports,Yes,79335,Medium,Yes,Low,Job
+S0902,Student_902,19,Non-Binary,Senior,94,53,58,85,79.6,65.23,High,31,Arts,No,97706,Low,Yes,High,College
+S0903,Student_903,17,Non-Binary,Senior,74,69,68,65,91.39,68.0,Medium,40,Clubs,Yes,99072,High,Yes,Low,Undecided
+S0904,Student_904,18,Male,Junior,71,90,43,68,82.88,98.81,High,39,None,Yes,62436,High,Yes,High,Job
+S0905,Student_905,20,Female,Sophomore,96,58,55,64,75.46,83.8,Low,35,Arts,Yes,88315,Medium,Yes,Medium,College
+S0906,Student_906,17,Non-Binary,Freshman,88,73,81,93,90.13,66.7,Low,29,Arts,Yes,50697,Medium,Yes,Low,Gap Year
+S0907,Student_907,17,Female,Senior,79,100,57,55,96.36,96.08,High,11,Clubs,Yes,38082,Low,No,Low,Job
+S0908,Student_908,22,Male,Senior,56,58,77,81,91.79,64.31,Medium,26,Clubs,Yes,49388,High,Yes,Medium,Gap Year
+S0909,Student_909,18,Female,Senior,66,89,48,48,93.19,84.24,High,7,Arts,No,33529,Low,Yes,Low,Gap Year
+S0910,Student_910,25,Non-Binary,Junior,65,67,64,76,92.87,88.58,High,15,Sports,No,99849,Low,Yes,High,Gap Year
+S0911,Student_911,24,Non-Binary,Freshman,87,91,100,71,95.53,85.02,Low,8,None,No,92558,Medium,Yes,Medium,Undecided
+S0912,Student_912,16,Female,Junior,99,48,57,72,77.95,74.73,Medium,17,None,No,85244,Medium,Yes,Medium,Job
+S0913,Student_913,16,Non-Binary,Senior,82,57,56,92,94.17,74.99,High,40,Sports,Yes,98484,Medium,Yes,Medium,Undecided
+S0914,Student_914,20,Non-Binary,Junior,96,58,97,66,89.91,89.36,High,11,None,Yes,60921,High,Yes,High,Gap Year
+S0915,Student_915,21,Male,Freshman,81,84,96,83,98.34,91.56,Low,12,Clubs,Yes,24449,Low,Yes,Low,Undecided
+S0916,Student_916,24,Non-Binary,Sophomore,59,47,86,73,92.73,71.69,High,6,Clubs,No,45323,High,No,High,College
+S0917,Student_917,22,Female,Sophomore,77,75,64,92,82.04,67.25,High,32,Clubs,Yes,73346,Medium,Yes,High,Gap Year
+S0918,Student_918,24,Non-Binary,Junior,63,85,40,70,76.04,73.6,Low,20,None,Yes,25759,Medium,Yes,Low,Undecided
+S0919,Student_919,22,Non-Binary,Freshman,49,41,93,80,84.76,73.95,Low,20,None,Yes,65155,Medium,Yes,High,Gap Year
+S0920,Student_920,25,Male,Junior,99,78,93,97,97.38,83.45,Medium,24,Clubs,No,66009,Low,Yes,High,College
+S0921,Student_921,20,Female,Senior,58,52,76,99,91.48,87.67,High,20,Arts,Yes,64516,Low,Yes,High,College
+S0922,Student_922,23,Male,Senior,76,91,49,80,77.49,75.15,Medium,25,Arts,Yes,88958,High,No,Low,Undecided
+S0923,Student_923,15,Female,Freshman,74,63,69,79,93.98,85.59,High,27,Arts,Yes,47204,Low,No,High,Gap Year
+S0924,Student_924,22,Female,Sophomore,90,96,66,45,94.16,80.16,Low,13,Arts,Yes,44312,Medium,No,High,College
+S0925,Student_925,15,Female,Junior,81,52,95,56,94.21,60.04,Low,6,Sports,No,75302,High,Yes,High,Undecided
+S0926,Student_926,23,Male,Junior,72,93,51,69,99.19,87.0,Medium,26,Sports,Yes,93526,Low,No,Low,Job
+S0927,Student_927,24,Male,Sophomore,76,96,89,80,95.2,99.76,Medium,19,Sports,No,89620,Low,Yes,High,Undecided
+S0928,Student_928,18,Female,Sophomore,66,77,47,80,99.18,86.45,Medium,32,None,Yes,73916,High,Yes,High,Undecided
+S0929,Student_929,20,Male,Sophomore,44,85,68,74,96.7,89.24,Medium,7,Sports,Yes,25559,High,No,Medium,Gap Year
+S0930,Student_930,15,Non-Binary,Sophomore,74,61,51,80,77.08,98.88,Medium,9,Clubs,Yes,72678,Medium,Yes,High,Undecided
+S0931,Student_931,23,Non-Binary,Junior,81,56,93,75,79.73,85.77,Medium,19,Clubs,Yes,60364,High,Yes,Medium,College
+S0932,Student_932,15,Non-Binary,Junior,55,74,85,65,87.75,63.5,Low,8,None,No,53481,Medium,No,Low,Job
+S0933,Student_933,23,Female,Junior,48,43,49,51,84.81,63.75,Low,8,Sports,No,56365,High,No,Medium,Undecided
+S0934,Student_934,20,Female,Senior,43,68,45,73,88.68,94.1,Low,16,Clubs,No,60569,Medium,No,High,Job
+S0935,Student_935,16,Male,Junior,57,41,83,46,94.42,86.79,Low,23,Arts,Yes,74081,Medium,No,Low,College
+S0936,Student_936,18,Non-Binary,Junior,97,76,66,76,86.25,78.51,Low,7,Clubs,Yes,58281,Medium,Yes,Medium,College
+S0937,Student_937,20,Non-Binary,Sophomore,50,75,77,52,82.83,93.74,High,19,Clubs,Yes,40563,High,Yes,Low,Job
+S0938,Student_938,21,Non-Binary,Freshman,87,93,83,40,89.29,76.15,Low,7,Sports,No,30935,High,Yes,Medium,Job
+S0939,Student_939,16,Female,Junior,41,76,75,87,79.71,68.69,High,7,Arts,Yes,72992,Low,Yes,Low,Undecided
+S0940,Student_940,23,Non-Binary,Freshman,80,66,52,82,78.6,63.05,Medium,37,Sports,No,49561,High,Yes,Medium,Undecided
+S0941,Student_941,24,Non-Binary,Junior,100,75,93,67,81.25,76.6,High,19,Sports,Yes,36327,Low,Yes,High,Undecided
+S0942,Student_942,15,Male,Junior,80,89,60,98,76.89,88.42,Low,19,None,No,64575,High,No,High,College
+S0943,Student_943,25,Non-Binary,Freshman,44,95,51,100,79.86,84.74,Low,12,Sports,No,57363,Low,No,Medium,Undecided
+S0944,Student_944,17,Non-Binary,Junior,47,63,57,88,79.28,83.58,Low,22,Sports,No,50212,Medium,Yes,High,College
+S0945,Student_945,15,Female,Junior,59,90,83,60,87.41,70.96,High,19,Arts,Yes,66019,Low,No,High,Undecided
+S0946,Student_946,25,Female,Senior,90,76,63,93,93.69,87.25,Medium,39,Clubs,Yes,37114,High,No,Low,College
+S0947,Student_947,18,Male,Sophomore,66,52,68,77,82.27,63.4,High,6,Sports,Yes,92891,Low,No,Low,Gap Year
+S0948,Student_948,21,Non-Binary,Freshman,62,95,42,51,84.62,69.55,Medium,22,Sports,No,29676,High,No,Medium,Job
+S0949,Student_949,22,Non-Binary,Freshman,58,71,53,81,92.04,94.97,Medium,14,Sports,Yes,56154,Medium,No,High,College
+S0950,Student_950,15,Non-Binary,Sophomore,82,97,90,80,92.89,70.55,High,35,Arts,No,66302,Low,Yes,Medium,College
+S0951,Student_951,17,Male,Junior,77,66,60,90,93.94,76.61,Medium,28,Arts,Yes,35397,Medium,No,Low,Gap Year
+S0952,Student_952,24,Non-Binary,Freshman,100,48,79,75,87.38,89.51,Medium,18,None,Yes,79199,Low,No,Low,Gap Year
+S0953,Student_953,19,Female,Freshman,99,42,84,82,93.51,90.19,High,39,None,No,67002,Low,Yes,Low,Undecided
+S0954,Student_954,17,Female,Freshman,82,90,78,69,88.25,63.24,High,5,Sports,Yes,40715,Medium,Yes,Medium,College
+S0955,Student_955,18,Male,Sophomore,86,52,43,46,88.2,74.55,Low,13,Arts,Yes,39625,Medium,Yes,Medium,College
+S0956,Student_956,21,Non-Binary,Freshman,72,52,94,92,93.26,82.74,Medium,33,Arts,No,68593,Medium,Yes,High,Gap Year
+S0957,Student_957,20,Male,Senior,90,95,72,84,89.02,82.86,Low,21,Clubs,Yes,85948,Medium,Yes,Medium,Job
+S0958,Student_958,19,Female,Junior,90,45,40,85,76.64,73.96,High,33,Clubs,Yes,39401,Low,No,Low,College
+S0959,Student_959,17,Non-Binary,Senior,80,67,91,49,98.62,65.73,Low,38,Sports,No,85311,Medium,Yes,Low,College
+S0960,Student_960,16,Female,Freshman,73,88,84,77,75.84,83.2,Medium,25,Sports,No,69395,Low,No,Low,College
+S0961,Student_961,23,Female,Freshman,56,42,96,78,84.85,93.44,Low,39,Clubs,No,76439,Low,No,Low,Undecided
+S0962,Student_962,22,Male,Freshman,41,96,81,84,88.35,78.22,Medium,7,Clubs,Yes,41119,High,No,Low,Undecided
+S0963,Student_963,17,Non-Binary,Junior,54,60,98,55,84.75,64.6,Low,36,Clubs,No,30474,High,No,Medium,College
+S0964,Student_964,18,Female,Senior,92,91,71,41,81.19,92.9,High,29,Sports,No,95601,Low,Yes,High,Job
+S0965,Student_965,21,Female,Junior,44,83,100,41,95.61,79.97,Medium,14,Sports,Yes,68122,Low,No,High,Job
+S0966,Student_966,25,Non-Binary,Sophomore,56,68,66,52,93.0,62.9,Medium,40,Sports,Yes,49495,Low,No,High,Job
+S0967,Student_967,24,Female,Junior,62,72,92,78,81.12,60.43,Medium,19,Arts,No,44151,Medium,No,Medium,Undecided
+S0968,Student_968,21,Female,Sophomore,51,62,85,51,75.83,64.7,Low,38,Clubs,No,57529,High,No,High,College
+S0969,Student_969,19,Non-Binary,Senior,84,68,75,68,97.51,77.2,Low,17,Clubs,No,69411,Medium,Yes,Low,Gap Year
+S0970,Student_970,15,Male,Freshman,95,71,55,79,85.52,99.17,High,22,Clubs,Yes,72625,Medium,No,Low,Gap Year
+S0971,Student_971,20,Non-Binary,Sophomore,74,83,79,80,75.73,68.43,Medium,27,Arts,Yes,28656,High,No,High,Job
+S0972,Student_972,16,Male,Sophomore,79,96,56,81,80.58,73.33,High,34,Sports,No,49002,Low,Yes,Low,Job
+S0973,Student_973,25,Female,Junior,57,59,72,88,97.68,71.87,Medium,5,Arts,Yes,53108,High,No,Medium,Undecided
+S0974,Student_974,15,Female,Senior,86,73,75,42,93.84,84.4,Low,23,None,No,67779,Medium,Yes,High,Gap Year
+S0975,Student_975,25,Female,Senior,89,62,45,88,77.12,78.43,Medium,23,Arts,Yes,74581,Medium,No,Low,Undecided
+S0976,Student_976,19,Female,Freshman,73,96,52,49,85.65,87.59,Low,13,Sports,No,46469,High,Yes,High,College
+S0977,Student_977,18,Male,Senior,95,81,50,82,83.87,66.74,Medium,13,None,No,32203,High,Yes,Low,Job
+S0978,Student_978,20,Female,Freshman,78,40,92,53,81.52,79.76,High,32,Sports,No,27090,High,Yes,Medium,Gap Year
+S0979,Student_979,19,Female,Freshman,89,43,100,48,91.65,79.8,Medium,5,Clubs,Yes,27701,Medium,No,High,College
+S0980,Student_980,25,Female,Junior,41,92,100,76,92.47,99.37,Low,16,Arts,Yes,51022,High,Yes,High,Undecided
+S0981,Student_981,17,Female,Senior,85,42,65,75,88.31,98.23,High,33,Clubs,Yes,69986,Medium,Yes,Medium,Gap Year
+S0982,Student_982,16,Male,Junior,40,46,70,75,87.31,94.74,Low,16,Sports,No,73606,Medium,No,Medium,Undecided
+S0983,Student_983,21,Male,Junior,95,93,78,80,87.86,91.68,Low,20,Arts,No,87932,Medium,Yes,Low,Job
+S0984,Student_984,23,Female,Junior,57,98,78,60,94.39,87.24,Low,18,Clubs,No,61713,High,No,High,Undecided
+S0985,Student_985,22,Non-Binary,Senior,56,94,69,64,79.13,71.22,High,18,Sports,Yes,44250,Medium,Yes,Low,College
+S0986,Student_986,19,Male,Junior,62,79,62,40,82.65,74.31,High,6,None,No,85477,Medium,No,High,Undecided
+S0987,Student_987,19,Male,Senior,89,78,64,86,81.85,94.74,Medium,38,Arts,No,57962,High,No,High,College
+S0988,Student_988,21,Non-Binary,Junior,44,80,84,76,96.93,95.45,Medium,12,Arts,No,98625,Low,Yes,Medium,Gap Year
+S0989,Student_989,22,Non-Binary,Junior,58,43,99,68,94.29,80.39,Low,15,None,Yes,77845,Medium,No,Medium,College
+S0990,Student_990,24,Male,Sophomore,42,98,66,64,88.77,86.33,High,8,Clubs,Yes,71978,Low,Yes,Medium,College
+S0991,Student_991,23,Male,Senior,83,63,99,46,80.3,65.5,Low,23,None,Yes,39147,Medium,No,Low,Undecided
+S0992,Student_992,18,Non-Binary,Junior,80,72,60,44,97.13,92.16,Low,37,Clubs,No,53701,Medium,No,Low,Undecided
+S0993,Student_993,15,Non-Binary,Senior,71,76,82,93,84.57,95.54,Low,23,Clubs,Yes,72409,High,No,High,Undecided
+S0994,Student_994,24,Non-Binary,Senior,57,41,49,44,87.31,60.81,Medium,32,Arts,No,57704,Medium,No,Medium,Gap Year
+S0995,Student_995,17,Female,Freshman,60,82,95,65,86.47,81.81,High,11,Clubs,Yes,77588,High,Yes,Low,Job
+S0996,Student_996,21,Male,Junior,73,49,69,79,93.99,71.63,Medium,33,Sports,Yes,72475,Low,No,High,Job
+S0997,Student_997,23,Male,Junior,49,42,92,76,86.92,98.09,Medium,24,Clubs,Yes,32162,High,No,Low,Gap Year
+S0998,Student_998,20,Non-Binary,Senior,42,83,68,69,99.93,88.9,Medium,34,Clubs,No,77568,High,No,High,Undecided
+S0999,Student_999,17,Female,Senior,53,43,55,74,97.68,70.08,Medium,20,Arts,Yes,82560,Low,Yes,High,Job
+S1000,Student_1000,16,Female,Sophomore,58,83,42,79,89.19,88.48,Medium,36,Clubs,No,77885,Low,No,Medium,Undecided
