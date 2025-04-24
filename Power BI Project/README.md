@@ -87,5 +87,3 @@ The **Energy Consumption Analytics Dashboard** provides a holistic and intuitive
 - 🌍 Strategize for **carbon emission management**
 
 ---
-
-> Want this exported as a PDF or styled for a presentation too? Just let me know!
