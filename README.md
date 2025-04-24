@@ -45,10 +45,10 @@
 12. 🧾 **SQL Certificate**  
     *Official recognition of skill in writing and optimizing SQL queries.*
 
-13. 🎓 **Business Communication Certificate**  
-    *Credential proving competency in data-oriented Python programming.*
+13. 🎓 **Business Communication Certificate**
+    *Official recognition of skills in effective business communication and data-oriented Python programming.*
 
-14. 🧾 **Communication Professional Behaviour Certificate**  
-    *Official recognition of skill in writing and optimizing SQL queries.*
+14. 🧾 **SQL Query Optimization Certificate**
+    *Credential proving proficiency in writing and optimizing SQL queries for data management.*
 ---
 
