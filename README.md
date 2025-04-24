@@ -1,19 +1,49 @@
-# DANLC - Data Analytics No + Low Code 
-## About -
-  Data Analytics No + Low Code (DANLC) refers to platforms that enable users to perform data analysis without extensive coding knowledge. These tools utilize visual interfaces, allowing individuals to create analytics solutions through simple drag-and-drop functionalities, thereby democratizing data access and insights across organizations.
+# 💡 DANLC – *Data Analytics No + Low Code*
 
-# Table Of Content - 
-  1.	Data Visualization Labs
-  2.	Power BI Labs
-  3.	Power BI Projects
-  4.	Python Programming Labs
-  5.	Python Projects
-  6.	SQL Labs
-  7.	SQL Project
-  8.	SQL Project - 2
-  9.	Data Visualization Certificate
-  10.	Python Programming Certificate
-  11.	SQL Certificate
+---
 
+## 📖 About  
+**Data Analytics No + Low Code (DANLC)** is a modern approach that empowers individuals to conduct meaningful data analysis without writing extensive code. These platforms feature **visual interfaces** and **drag-and-drop tools**, enabling users to develop powerful analytics workflows with ease. DANLC lowers technical barriers, allowing wider teams to access, analyze, and act on data—ultimately promoting **data democratization** across organizations.
 
+---
+
+## 📚 Table of Contents  
+
+1. 📊 **Data Visualization Labs**  
+   *Interactive exercises focused on visual storytelling and data representation.*
+
+2. 📈 **Power BI Labs**  
+   *Guided labs to build proficiency in Power BI for dashboards and reports.*
+
+3. 🧠 **Power BI Projects**  
+   *Capstone-style projects simulating real-world business intelligence use cases.*
+
+4. 🐍 **Python Programming Labs**  
+   *Hands-on coding labs for data manipulation, analysis, and automation in Python.*
+
+5. 🔍 **Python Project**  
+   *An applied project that integrates logic and analytics using Python.*
+
+6. 🧪 **Python Project – 2**  
+   *An advanced-level Python challenge that builds on prior labs and concepts.*
+
+7. 🗃️ **SQL Labs**  
+   *Fundamental labs on querying, joining, and managing relational databases.*
+
+8. 📂 **SQL Project**  
+   *A practical SQL project aimed at solving real-world data problems.*
+
+9. 📁 **SQL Project – 2**  
+   *A deeper dive into SQL through complex queries and report generation.*
+
+10. 🏅 **Data Visualization Certificate**  
+    *Certification recognizing expertise in crafting meaningful data visuals.*
+
+11. 🎓 **Python Programming Certificate**  
+    *Credential proving competency in data-oriented Python programming.*
+
+12. 🧾 **SQL Certificate**  
+    *Official recognition of skill in writing and optimizing SQL queries.*
+
+---
 
